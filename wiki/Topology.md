@@ -4,7 +4,7 @@ title: TOPOLOGY RULES FOR RUST
 
 <h1>TOPOLOGY RULES FOR RUST</h1>
 
-[LOOT] <br>
+[LOOT] 
 <br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Monument
@@ -13,7 +13,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
-[ORES]  <br>
+[ORES] 
 <br><u>Biome</u>: Temperate, Tundra
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Decor, Cliffside, Clutter
@@ -22,8 +22,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [collectable-food-mushroom]  <br>
-<br><u>Biome</u>: Temperate, Tundra
+ [collectable-food-mushroom] 
 <br><u>Splat</u>: Forest
 <br><u>Allowed Topology</u>: Forest
 <br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
@@ -31,7 +30,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [collectable-resource-hemp] <br>
+ [collectable-resource-hemp]
 <br><u>Biome</u>: Temperate, Tundra
 <br><u>Splat</u>: Dirt, Grass, Forest
 <br><u>Allowed Topology</u>: Field, Forest
@@ -40,7 +39,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [collectable-resource-stone]  <br>
+ [collectable-resource-stone]  
 <br><u>Biome</u>: Arid, Temperate, Tundra
 <br><u>Splat</u>: Dirt, Snow, Sand, Grass, Forest
 <br><u>Allowed Topology</u>: Field, Forest
@@ -49,7 +48,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [plant-corn]  <br>
+ [plant-corn]  
 <br><u>Biome</u>: Arid, Temperate, Tundra
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Riverside, Lakeside
@@ -58,7 +57,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [plant-pumpkin]<br>
+ [plant-pumpkin]
 <br><u>Biome</u>: Arid, Temperate, Tundra
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Riverside, Lakeside
@@ -67,7 +66,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_temp_forest]  <br>
+ [v2_temp_forest] 
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
@@ -76,7 +75,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_temp_forest_small] <br>
+ [v2_temp_forest_small] 
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
@@ -85,7 +84,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_tundra_forest]  <br>
+ [v2_tundra_forest]  
 <br><u>Biome</u>: Tundra
 <br><u>Splat</u>: Forest
 <br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
@@ -94,7 +93,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_tundra_forest_small]  <br>
+ [v2_tundra_forest_small]  
 <br><u>Biome</u>: Tundra
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Field, Forest, Forestside, Cliffside
@@ -103,7 +102,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_arctic_forest]  <br>
+ [v2_arctic_forest]  
 <br><u>Biome</u>: Arctic
 <br><u>Splat</u>: Grass
 <br><u>Allowed Topology</u>: Field, Cliffside
@@ -112,8 +111,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_arctic_forest_snow]  <br>
-<br><u>Biome</u>: Arctic
+ [v2_arctic_forest_snow]  
 <br><u>Splat</u>: Snow
 <br><u>Allowed Topology</u>: Forest
 <br><u>Blocked Topology</u>: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Oceanside, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
@@ -121,7 +119,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_arid_cactus]  <br>
+ [v2_arid_cactus]  
 <br><u>Biome</u>: Arid
 <br><u>Splat</u>: Dirt, Sand
 <br><u>Allowed Topology</u>: Field
@@ -130,7 +128,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_arid_palms_dense]  <br>
+ [v2_arid_palms_dense] 
 <br><u>Biome</u>: Arid
 <br><u>Splat</u>: Sand, Grass
 <br><u>Allowed Topology</u>: Beachside, River, Riverside, Lake, Lakeside
@@ -139,7 +137,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_arid_palms_light]  <br>
+ [v2_arid_palms_light]  
 <br><u>Biome</u>: Arid
 <br><u>Splat</u>: Grass
 <br><u>Allowed Topology</u>: Field, Cliff, Beachside, Forestside, Riverside, Lakeside
@@ -148,7 +146,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_arid_palms_superdense]  <br>
+ [v2_arid_palms_superdense]  
 <br><u>Biome</u>: Arid
 <br><u>Splat</u>: Forest
 <br><u>Allowed Topology</u>: Beachside, Forest, Lakeside, Cliffside
@@ -157,7 +155,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [junkpiles]  <br>
+ [junkpiles]  
 <br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Roadside, Powerline
@@ -166,7 +164,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [driftwood] <br>
+ [driftwood] 
 <br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Beach
@@ -175,7 +173,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [logs_dry]  <br>
+ [logs_dry]  
 <br><u>Biome</u>: Tundra
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Forest, Forestside
@@ -184,7 +182,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [logs_snow]  <br>
+ [logs_snow]  
 <br><u>Biome</u>: Arctic
 <br><u>Splat</u>: Snow
 <br><u>Allowed Topology</u>: Forest, Forestside
@@ -193,7 +191,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [logs_wet] <br>
+ [logs_wet] 
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Forest, Forestside
@@ -202,7 +200,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [ores_snow]  <br>
+ [ores_snow]  
 <br><u>Biome</u>: Arctic
 <br><u>Splat</u>: Snow
 <br><u>Allowed Topology</u>: Decor, Cliffside, Clutter
@@ -211,7 +209,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [ores_sand]  <br>
+ [ores_sand] 
 <br><u>Biome</u>: Arid
 <br><u>Splat</u>: Sand
 <br><u>Allowed Topology</u>: Decor, Cliffside, Clutter
@@ -220,7 +218,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_temp_beachforest_small] <br>
+ [v2_temp_beachforest_small] 
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Grass
 <br><u>Allowed Topology</u>: Beachside, Riverside, Lakeside
@@ -229,7 +227,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [collectable-resource-wood]  <br>
+ [collectable-resource-wood] 
 <br><u>Biome</u>: Arid, Temperate, Tundra
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Field, Cliff, Beachside, Forest, Forestside, Oceanside, Riverside, Lakeside, Cliffside
@@ -238,7 +236,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_temp_field_small] <br>
+ [v2_temp_field_small]
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Grass
 <br><u>Allowed Topology</u>: Field, Cliffside
@@ -247,7 +245,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_arid_palm_beach] <br>
+ [v2_arid_palm_beach] 
 <br><u>Biome</u>: Arid
 <br><u>Splat</u>: Sand
 <br><u>Allowed Topology</u>: Beachside, Riverside, Lakeside
@@ -256,7 +254,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_temp_field_large]<br>
+ [v2_temp_field_large]
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Grass
 <br><u>Allowed Topology</u>: Field, Decor, Cliffside, Hilltop
@@ -265,7 +263,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_temp_forest_deciduous]  <br>
+ [v2_temp_forest_deciduous]  
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
@@ -274,7 +272,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [v2_temp_forest_small_deciduous]  <br>
+ [v2_temp_forest_small_deciduous] 
 <br><u>Biome</u>: Temperate
 <br><u>Splat</u>: Grass, Forest
 <br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
@@ -283,7 +281,7 @@ title: TOPOLOGY RULES FOR RUST
  
 
 
- [junkpiles_water]  <br>
+ [junkpiles_water] 
 <br><u>Biome</u>: Arid, Temperate, Tundra
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Offshore
