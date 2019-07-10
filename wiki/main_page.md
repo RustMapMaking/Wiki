@@ -1,7 +1,3 @@
----
-redirect_from: "/"
----
-
 # Welcome to Rust Map Making Wiki
 
 
