@@ -1,4 +1,4 @@
-# Customize git-wiki
+# Welcome to RustMapMaking Wiki
 
 
 From version 2.x Git-Wiki uses a **modular** architecture based on **components** and **"including hooks".**
