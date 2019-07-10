@@ -61,7 +61,7 @@ git-wiki-tools{
 
 a {
   color: #CD412B;
-  text-decoration: underline bold;
+  text-decoration: bold;
 }
 
 a small {
@@ -398,10 +398,10 @@ screen and (max-width: 480px) {
   list-style-type: none;
 }
 
-#.external-link {
-#  background-position: center right;
-#  background-repeat: no-repeat;
-#  background-image: url("../images/external-link-ltr-icon.png");
-#  background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
-# padding-right: 13px;
-#}
+/*.external-link {
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-image: url("../images/external-link-ltr-icon.png");
+  background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
+  padding-right: 13px;
+} */
