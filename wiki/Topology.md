@@ -1,3 +1,8 @@
+---
+title: My First Page
+layout: default
+---
+
 TOPOLOGY RULES FOR RUST
 
 [ResourceDebug] loot : 
@@ -5,9 +10,6 @@ Biome: Arid, Temperate, Tundra, Arctic
 Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 Allowed Topology: Monument
 Blocked Topology: Cliff, Summit, Ocean, Decor, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter
-
- 
-
 
 [ResourceDebug] ores : 
 Biome: Temperate, Tundra
