@@ -61,13 +61,9 @@ git-wiki-tools{
 
 a:-webkit-any-link {
   color: #CD412B;
-  text-decoration: none;
-  font-weight: bold;
+  text-decoration: inherit;
+  font-weight: inherit;
 }
-
-a:-webkit-any-link:hover {
-  text-decoration: underline;
-  }
 
 a small {
   font-size: 11px;
