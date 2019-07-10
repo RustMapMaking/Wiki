@@ -1,4 +1,6 @@
-TOPOLOGY RULES FOR RUST
+<h1>TOPOLOGY RULES FOR RUST</h1>
+
+layout: "git-wiki-default"
 
 [Loot] : <br>
 <u>Biome</u>: Arid, Temperate, Tundra, Arctic<br>
