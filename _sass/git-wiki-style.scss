@@ -254,10 +254,15 @@ footer {
 
 .tools-element {
   border-left: aqua;
+  background-color: black ;
   border-left-style: solid;
   padding-left: 10px;
   padding-right: 10px;
 }
+
+hover.tools-element {
+  background-color: white ;
+  }
 
 @media print,
 screen and (max-width: 960px) {
