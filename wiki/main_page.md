@@ -2,7 +2,7 @@
 redirect_from: "/"
 ---
 
-# Welcome to git-wiki demo
+# Welcome to Rust Map Making Wiki yeeeett
 
 This is both documentation and [demo](Demo.md) of git-wiki theme for jekyll.
 
