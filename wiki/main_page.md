@@ -1,3 +1,7 @@
+---
+redirect_from: "/"
+---
+
 # Home
 
 Insert wiki here
