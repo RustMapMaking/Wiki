@@ -64,6 +64,7 @@ a {
   }
   
 a:-webkit-any-link {
+text-decoration: none;
 }
 
 a small {
@@ -274,7 +275,7 @@ footer {
   border-color: #CD412B;
   }
   
-.tools-buttons a {
+.tools-element a {
   color: green;
   }
 
