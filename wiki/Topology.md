@@ -1,6 +1,5 @@
 ---
 title: My First Page
-layout: default
 ---
 
 TOPOLOGY RULES FOR RUST
