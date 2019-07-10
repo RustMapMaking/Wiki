@@ -4,6 +4,10 @@ redirect_from: "/"
 
 # Home
 
+Welcome to the Rust Map Making wiki.
+
+Make sure to join our discord if you are not already part of our community. [Rust Map Making Discord](https://discord.gg/CwTrTSC)
+
 Insert wiki here
 
 # This is an <h1> tag
@@ -34,7 +38,7 @@ Images
 Format: ![Alt Text](url)
 Links
 http://github.com - automatic!
-[GitHub](http://github.com)
+
 Blockquotes
 As Kanye West said:
 
