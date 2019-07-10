@@ -1,290 +1,290 @@
 ---
-title: Topology Rules for Rust
+title: TOPOLOGY RULES FOR RUST
 ---
 
-TOPOLOGY RULES FOR RUST
+<h1>TOPOLOGY RULES FOR RUST</h1>
 
- loot : <br>
-<br>Biome: Arid, Temperate, Tundra, Arctic
-<br>Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-<br>Allowed Topology: Monument
-<br>Blocked Topology: Cliff, Summit, Ocean, Decor, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter
-
- 
-
-
- ores : <br>
-<br>Biome: Temperate, Tundra
-<br>Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-<br>Allowed Topology: Decor, Cliffside, Clutter
-<br>Blocked Topology: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Monument, Road, Roadside, Swamp, River, Riverside, Lake, Lakeside, Runway, Building
+[LOOT] <br>
+<br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
+<br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
+<br><u>Allowed Topology</u>: Monument
+<br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter
 
  
 
 
- collectable-food-mushroom : <br>
-<br>Biome: Temperate, Tundra
-<br>Splat: Forest
-<br>Allowed Topology: Forest
-<br>Blocked Topology: Cliff, Summit, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
+[ORES]  <br>
+<br><u>Biome</u>: Temperate, Tundra
+<br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
+<br><u>Allowed Topology</u>: Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Monument, Road, Roadside, Swamp, River, Riverside, Lake, Lakeside, Runway, Building
 
  
 
 
- collectable-resource-hemp : <br>
-<br>Biome: Temperate, Tundra
-<br>Splat: Dirt, Grass, Forest
-<br>Allowed Topology: Field, Forest
-<br>Blocked Topology: Cliff, Summit, Beach, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
+ [collectable-food-mushroom]  <br>
+<br><u>Biome</u>: Temperate, Tundra
+<br><u>Splat</u>: Forest
+<br><u>Allowed Topology</u>: Forest
+<br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
 
  
 
 
- collectable-resource-stone : <br>
-<br>Biome: Arid, Temperate, Tundra
-<br>Splat: Dirt, Snow, Sand, Grass, Forest
-<br>Allowed Topology: Field, Forest
-<br>Blocked Topology: Cliff, Summit, Beach, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
+ [collectable-resource-hemp] <br>
+<br><u>Biome</u>: Temperate, Tundra
+<br><u>Splat</u>: Dirt, Grass, Forest
+<br><u>Allowed Topology</u>: Field, Forest
+<br><u>Blocked Topology</u>: Cliff, Summit, Beach, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
 
  
 
 
- plant-corn : <br>
-<br>Biome: Arid, Temperate, Tundra
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Riverside, Lakeside
-<br>Blocked Topology: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
+ [collectable-resource-stone]  <br>
+<br><u>Biome</u>: Arid, Temperate, Tundra
+<br><u>Splat</u>: Dirt, Snow, Sand, Grass, Forest
+<br><u>Allowed Topology</u>: Field, Forest
+<br><u>Blocked Topology</u>: Cliff, Summit, Beach, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
 
  
 
 
- plant-pumpkin : <br>
-<br>Biome: Arid, Temperate, Tundra
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Riverside, Lakeside
-<br>Blocked Topology: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
+ [plant-corn]  <br>
+<br><u>Biome</u>: Arid, Temperate, Tundra
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Riverside, Lakeside
+<br><u>Blocked Topology</u>: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
 
  
 
 
- v2_temp_forest : <br>
-<br>Biome: Temperate
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Forest, Decor, Cliffside, Clutter
-<br>Blocked Topology: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Alt
+ [plant-pumpkin]<br>
+<br><u>Biome</u>: Arid, Temperate, Tundra
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Riverside, Lakeside
+<br><u>Blocked Topology</u>: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
 
  
 
 
- v2_temp_forest_small : <br>
-<br>Biome: Temperate
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Forest, Decor, Cliffside, Clutter
-<br>Blocked Topology: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Alt
+ [v2_temp_forest]  <br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Alt
 
  
 
 
- v2_tundra_forest : <br>
-<br>Biome: Tundra
-<br>Splat: Forest
-<br>Allowed Topology: Forest, Decor, Cliffside, Clutter
-<br>Blocked Topology: Cliff, Beachside, Beach, Ocean, Road, Swamp, River, Lake, Offshore, Runway, Building
+ [v2_temp_forest_small] <br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Alt
 
  
 
 
- v2_tundra_forest_small : <br>
-<br>Biome: Tundra
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Field, Forest, Forestside, Cliffside
-<br>Blocked Topology: Cliff, Beachside, Beach, Ocean, Road, Swamp, River, Lake, Offshore, Runway, Building
+ [v2_tundra_forest]  <br>
+<br><u>Biome</u>: Tundra
+<br><u>Splat</u>: Forest
+<br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Cliff, Beachside, Beach, Ocean, Road, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- v2_arctic_forest : <br>
-<br>Biome: Arctic
-<br>Splat: Grass
-<br>Allowed Topology: Field, Cliffside
-<br>Blocked Topology: Cliff, Summit, Beachside, Beach, Forest, Forestside, Ocean, Oceanside, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
+ [v2_tundra_forest_small]  <br>
+<br><u>Biome</u>: Tundra
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Field, Forest, Forestside, Cliffside
+<br><u>Blocked Topology</u>: Cliff, Beachside, Beach, Ocean, Road, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- v2_arctic_forest_snow : <br>
-<br>Biome: Arctic
-<br>Splat: Snow
-<br>Allowed Topology: Forest
-<br>Blocked Topology: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Oceanside, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
+ [v2_arctic_forest]  <br>
+<br><u>Biome</u>: Arctic
+<br><u>Splat</u>: Grass
+<br><u>Allowed Topology</u>: Field, Cliffside
+<br><u>Blocked Topology</u>: Cliff, Summit, Beachside, Beach, Forest, Forestside, Ocean, Oceanside, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
 
  
 
 
- v2_arid_cactus : <br>
-<br>Biome: Arid
-<br>Splat: Dirt, Sand
-<br>Allowed Topology: Field
-<br>Blocked Topology: Cliff, Summit, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building
+ [v2_arctic_forest_snow]  <br>
+<br><u>Biome</u>: Arctic
+<br><u>Splat</u>: Snow
+<br><u>Allowed Topology</u>: Forest
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Oceanside, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
 
  
 
 
- v2_arid_palms_dense : <br>
-<br>Biome: Arid
-<br>Splat: Sand, Grass
-<br>Allowed Topology: Beachside, River, Riverside, Lake, Lakeside
-<br>Blocked Topology: Field, Cliff, Summit, Beach, Forest, Forestside, Ocean, Decor, Road, Swamp, Offshore, Runway, Building
+ [v2_arid_cactus]  <br>
+<br><u>Biome</u>: Arid
+<br><u>Splat</u>: Dirt, Sand
+<br><u>Allowed Topology</u>: Field
+<br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- v2_arid_palms_light : <br>
-<br>Biome: Arid
-<br>Splat: Grass
-<br>Allowed Topology: Field, Cliff, Beachside, Forestside, Riverside, Lakeside
-<br>Blocked Topology: Cliff, Summit, Beach, Forest, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building
+ [v2_arid_palms_dense]  <br>
+<br><u>Biome</u>: Arid
+<br><u>Splat</u>: Sand, Grass
+<br><u>Allowed Topology</u>: Beachside, River, Riverside, Lake, Lakeside
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Beach, Forest, Forestside, Ocean, Decor, Road, Swamp, Offshore, Runway, Building
 
  
 
 
- v2_arid_palms_superdense : <br>
-<br>Biome: Arid
-<br>Splat: Forest
-<br>Allowed Topology: Beachside, Forest, Lakeside, Cliffside
-<br>Blocked Topology: Summit, Ocean, Road, Swamp, River, Offshore, Runway, Building
+ [v2_arid_palms_light]  <br>
+<br><u>Biome</u>: Arid
+<br><u>Splat</u>: Grass
+<br><u>Allowed Topology</u>: Field, Cliff, Beachside, Forestside, Riverside, Lakeside
+<br><u>Blocked Topology</u>: Cliff, Summit, Beach, Forest, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- junkpiles : <br>
-<br>Biome: Arid, Temperate, Tundra, Arctic
-<br>Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-<br>Allowed Topology: Roadside, Powerline
-<br>Blocked Topology: Cliff, Summit, Beach, Ocean, Oceanside, Decor, Monument, Road, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter
+ [v2_arid_palms_superdense]  <br>
+<br><u>Biome</u>: Arid
+<br><u>Splat</u>: Forest
+<br><u>Allowed Topology</u>: Beachside, Forest, Lakeside, Cliffside
+<br><u>Blocked Topology</u>: Summit, Ocean, Road, Swamp, River, Offshore, Runway, Building
 
  
 
 
- driftwood : <br>
-<br>Biome: Arid, Temperate, Tundra, Arctic
-<br>Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-<br>Allowed Topology: Beach
-<br>Blocked Topology: Cliff, Ocean, Monument, Road, Swamp, River, Lake, Runway, Building, Cliffside
+ [junkpiles]  <br>
+<br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
+<br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
+<br><u>Allowed Topology</u>: Roadside, Powerline
+<br><u>Blocked Topology</u>: Cliff, Summit, Beach, Ocean, Oceanside, Decor, Monument, Road, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter
 
  
 
 
- logs_dry : <br>
-<br>Biome: Tundra
-<br>Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-<br>Allowed Topology: Forest, Forestside
-<br>Blocked Topology: Cliff, Summit, Ocean, Decor, Road, Roadside, Swamp, River, Lake, Offshore, Runway, Building
+ [driftwood] <br>
+<br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
+<br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
+<br><u>Allowed Topology</u>: Beach
+<br><u>Blocked Topology</u>: Cliff, Ocean, Monument, Road, Swamp, River, Lake, Runway, Building, Cliffside
 
  
 
 
- logs_snow : <br>
-<br>Biome: Arctic
-<br>Splat: Snow
-<br>Allowed Topology: Forest, Forestside
-<br>Blocked Topology: Cliff, Summit, Ocean, Decor, Road, Roadside, Swamp, River, Lake, Offshore, Runway, Building
+ [logs_dry]  <br>
+<br><u>Biome</u>: Tundra
+<br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
+<br><u>Allowed Topology</u>: Forest, Forestside
+<br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, Road, Roadside, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- logs_wet : <br>
-<br>Biome: Temperate
-<br>Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-<br>Allowed Topology: Forest, Forestside
-<br>Blocked Topology: Cliff, Summit, Ocean, Decor, Road, Roadside, Swamp, River, Lake, Offshore, Runway, Building
+ [logs_snow]  <br>
+<br><u>Biome</u>: Arctic
+<br><u>Splat</u>: Snow
+<br><u>Allowed Topology</u>: Forest, Forestside
+<br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, Road, Roadside, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- ores_snow : <br>
-<br>Biome: Arctic
-<br>Splat: Snow
-<br>Allowed Topology: Decor, Cliffside, Clutter
-<br>Blocked Topology: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Monument, Road, Roadside, Swamp, River, Riverside, Lake, Lakeside, Runway, Building
+ [logs_wet] <br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
+<br><u>Allowed Topology</u>: Forest, Forestside
+<br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, Road, Roadside, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- ores_sand : <br>
-<br>Biome: Arid
-<br>Splat: Sand
-<br>Allowed Topology: Decor, Cliffside, Clutter
-<br>Blocked Topology: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Monument, Road, Roadside, Swamp, River, Riverside, Lake, Lakeside, Runway, Building
+ [ores_snow]  <br>
+<br><u>Biome</u>: Arctic
+<br><u>Splat</u>: Snow
+<br><u>Allowed Topology</u>: Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Monument, Road, Roadside, Swamp, River, Riverside, Lake, Lakeside, Runway, Building
 
  
 
 
- v2_temp_beachforest_small : <br>
-<br>Biome: Temperate
-<br>Splat: Grass
-<br>Allowed Topology: Beachside, Riverside, Lakeside
-<br>Blocked Topology: Field, Cliff, Summit, Ocean, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside
+ [ores_sand]  <br>
+<br><u>Biome</u>: Arid
+<br><u>Splat</u>: Sand
+<br><u>Allowed Topology</u>: Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Cliff, Summit, Beachside, Beach, Ocean, Oceanside, Monument, Road, Roadside, Swamp, River, Riverside, Lake, Lakeside, Runway, Building
 
  
 
 
- collectable-resource-wood : <br>
-<br>Biome: Arid, Temperate, Tundra
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Field, Cliff, Beachside, Forest, Forestside, Oceanside, Riverside, Lakeside, Cliffside
-<br>Blocked Topology: Summit, Beach, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Mountain, Clutter
+ [v2_temp_beachforest_small] <br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Grass
+<br><u>Allowed Topology</u>: Beachside, Riverside, Lakeside
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Ocean, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside
 
  
 
 
- v2_temp_field_small : <br>
-<br>Biome: Temperate
-<br>Splat: Grass
-<br>Allowed Topology: Field, Cliffside
-<br>Blocked Topology: Cliff, Beach, Forest, Forestside, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Clutter
+ [collectable-resource-wood]  <br>
+<br><u>Biome</u>: Arid, Temperate, Tundra
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Field, Cliff, Beachside, Forest, Forestside, Oceanside, Riverside, Lakeside, Cliffside
+<br><u>Blocked Topology</u>: Summit, Beach, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Mountain, Clutter
 
  
 
 
- v2_arid_palm_beach : <br>
-<br>Biome: Arid
-<br>Splat: Sand
-<br>Allowed Topology: Beachside, Riverside, Lakeside
-<br>Blocked Topology: Field, Cliff, Summit, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building
+ [v2_temp_field_small] <br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Grass
+<br><u>Allowed Topology</u>: Field, Cliffside
+<br><u>Blocked Topology</u>: Cliff, Beach, Forest, Forestside, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Clutter
 
  
 
 
- v2_temp_field_large : <br>
-<br>Biome: Temperate
-<br>Splat: Grass
-<br>Allowed Topology: Field, Decor, Cliffside, Hilltop
-<br>Blocked Topology: Cliff, Beach, Forest, Forestside, Ocean, Oceanside, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Clutter
+ [v2_arid_palm_beach] <br>
+<br><u>Biome</u>: Arid
+<br><u>Splat</u>: Sand
+<br><u>Allowed Topology</u>: Beachside, Riverside, Lakeside
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Ocean, Oceanside, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building
 
  
 
 
- v2_temp_forest_deciduous : <br>
-<br>Biome: Temperate
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Forest, Decor, Cliffside, Clutter
-<br>Blocked Topology: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
+ [v2_temp_field_large]<br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Grass
+<br><u>Allowed Topology</u>: Field, Decor, Cliffside, Hilltop
+<br><u>Blocked Topology</u>: Cliff, Beach, Forest, Forestside, Ocean, Oceanside, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building, Clutter
 
  
 
 
- v2_temp_forest_small_deciduous : <br>
-<br>Biome: Temperate
-<br>Splat: Grass, Forest
-<br>Allowed Topology: Forest, Decor, Cliffside, Clutter
-<br>Blocked Topology: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
+ [v2_temp_forest_deciduous]  <br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
 
  
 
 
- junkpiles_water : <br>
-<br>Biome: Arid, Temperate, Tundra
-<br>Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-<br>Allowed Topology: Offshore
-<br>Blocked Topology: 
+ [v2_temp_forest_small_deciduous]  <br>
+<br><u>Biome</u>: Temperate
+<br><u>Splat</u>: Grass, Forest
+<br><u>Allowed Topology</u>: Forest, Decor, Cliffside, Clutter
+<br><u>Blocked Topology</u>: Field, Cliff, Summit, Beachside, Beach, Forestside, Ocean, Road, Swamp, River, Lake, Offshore, Powerline, Runway, Building
+
+ 
+
+
+ [junkpiles_water]  <br>
+<br><u>Biome</u>: Arid, Temperate, Tundra
+<br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
+<br><u>Allowed Topology</u>: Offshore
+<br><u>Blocked Topology</u>: 
