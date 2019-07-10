@@ -55,7 +55,7 @@ h6 {
 }
 
 a {
-  color: #39c;
+  color: #DEDEDE;
   text-decoration: none;
 }
 
@@ -257,16 +257,17 @@ footer {
 }
 
 .tools-element {
-  border-left: aqua;
-  background-color: black ;
+  border-left: #2E2E2E;
+  background-color: #414141;
   border-left-style: solid;
   padding-left: 10px;
   padding-right: 10px;
 }
 
 .tools-element:hover {
-  transition: 1s;
-  background-color: white ;
+  transition: 0.25s;
+  border-left: #CD412B;
+  background-color: #DEDEDE;
   }
 
 @media print,
