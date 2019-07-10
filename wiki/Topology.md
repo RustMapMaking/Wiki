@@ -11,9 +11,6 @@ Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 Allowed Topology: Monument
 Blocked Topology: Cliff, Summit, Ocean, Decor, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter
 
- 
-
-
 [ResourceDebug] ores : 
 Biome: Temperate, Tundra
 Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
