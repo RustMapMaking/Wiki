@@ -4,9 +4,9 @@ title: TOPOLOGY RULES FOR RUST
 
 <h1>TOPOLOGY RULES FOR RUST</h1>
 
-<div class="w3-container">
-  <p>The w3-container class is an important w3.CSS class.</p>
-</div>
+<header class="w3-container w3-teal">
+  <h1>Header</h1>
+</header>
 
 [LOOT] 
 <br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
