@@ -1,8 +1,3 @@
----
-title: My page
-my_variable: footer_company_a.html
----
-
 TOPOLOGY RULES FOR RUST
 
 [ResourceDebug] loot : 
