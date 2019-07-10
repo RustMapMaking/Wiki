@@ -3,7 +3,9 @@ title: TOPOLOGY RULES FOR RUST
 ---
 
 <h1>TOPOLOGY RULES FOR RUST</h1>
-<p>Status: <span class="w3-tag">Done</span></p> 
+<div class="w3-bar w3-green">
+  <div class="w3-bar-item">LOOT</div>
+</div>
 
 [LOOT] 
 <br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
