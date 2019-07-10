@@ -59,10 +59,13 @@ git-wiki-tools{
   text-decoration: none;
 }
 
-tools-element,
 a {
-  color: #DEDEDE;
+  color: red;
   text-decoration: none;
+}
+
+a.external-link {
+  color: blue;
 }
 
 a:hover {
