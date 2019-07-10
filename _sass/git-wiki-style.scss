@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 @import "w3.scss";
+@font-face { font-family: Rust; src: url('fonts/Rust.ttf2'); }
 
 body {
   background-color: #DEDEDE;
@@ -61,6 +62,7 @@ git-wiki-tools{
 
 a {
   color: #CD412B;
+  font-family: Rust;
   }
   
 a:-webkit-any-link {
