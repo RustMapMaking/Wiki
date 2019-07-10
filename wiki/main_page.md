@@ -13,7 +13,7 @@ It means:
 * Improvements in the **cooperative** aspect: forks, pull-requests and roles.
 * You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
 * **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to Github Pages and Jekyll Server Side Generation process!
+* **4/20 Blazing fast** and free thankfully to Github Pages and Jekyll Server Side Generation process!
 * **Markdown and html** mixed together!
 * **Multiple free search engines!** on a static site!
 * **History, revision comparison** and everything you need from a wiki platform.
