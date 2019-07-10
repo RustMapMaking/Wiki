@@ -59,9 +59,9 @@ git-wiki-tools{
   text-decoration: none;
 }
 
-a {
+a:-webkit-any-link {
   color: #CD412B;
-  text-decoration: bold;
+  text-decoration: underline bold;
 }
 
 a small {
