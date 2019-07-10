@@ -276,7 +276,11 @@ footer {
   }
   
 .tools-element a {
-  color: green;
+  color: #DEDEDE;
+  }
+  
+.tools-element a:hover {
+  color: #CD412B;
   }
 
 @media print,
