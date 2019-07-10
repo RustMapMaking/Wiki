@@ -23,8 +23,9 @@ title: TOPOLOGY RULES FOR RUST
 
  
 
-
- [collectable-food-mushroom] 
+<div class="w3-bar w3-green">
+  <div class="w3-bar-item">COLLECTABLE-MUSHROOM</div>
+</div>
 <br><u>Splat</u>: Forest
 <br><u>Allowed Topology</u>: Forest
 <br><u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Runway, Building, Cliffside, Mountain, Clutter
