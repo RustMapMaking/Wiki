@@ -1,10 +1,10 @@
 TOPOLOGY RULES FOR RUST
 
-[ResourceDebug] loot : 
-Biome: Arid, Temperate, Tundra, Arctic
-Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
-Allowed Topology: Monument
-Blocked Topology: Cliff, Summit, Ocean, Decor, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter
+[Loot] : 
+<u>Biome</u>: Arid, Temperate, Tundra, Arctic<br>
+<u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel<br>
+<u>Allowed Topology</u>: Monument<br>
+<u>Blocked Topology</u>: Cliff, Summit, Ocean, Decor, River, Lake, Offshore, Building, Cliffside, Mountain, Clutter<br>
 
  
 
