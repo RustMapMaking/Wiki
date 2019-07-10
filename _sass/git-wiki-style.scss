@@ -262,12 +262,14 @@ footer {
   border-left-style: solid;
   padding-left: 10px;
   padding-right: 10px;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #DEDEDE;
 }
 
 .tools-element:hover {
   transition: 0.25s;
-  border-left: #CD412B;
-  background-color: #DEDEDE;
+  border-color: #CD412B;
+  color: #CD412B;
   }
 
 @media print,
