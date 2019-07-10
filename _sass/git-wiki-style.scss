@@ -62,7 +62,6 @@ git-wiki-tools{
 
 a {
   color: #CD412B;
-  font-family: Rust;
   }
   
 a:-webkit-any-link {
@@ -268,7 +267,8 @@ footer {
   border-left-style: solid;
   padding-left: 10px;
   padding-right: 10px;
-  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-top: 2px;
+  font: 20px/1.5 "Rust";
   color: #DEDEDE;
 }
 
