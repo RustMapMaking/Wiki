@@ -4,6 +4,10 @@ title: TOPOLOGY RULES FOR RUST
 
 <h1>TOPOLOGY RULES FOR RUST</h1>
 
+<div class="w3-container">
+  <p>The w3-container class is an important w3.CSS class.</p>
+</div>
+
 [LOOT] 
 <br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
