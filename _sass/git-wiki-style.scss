@@ -10,6 +10,10 @@ body {
   font-weight: 400;
 }
 
+span.page-list-title {
+  margin-left: 10px;
+  }
+
 h1,
 h2,
 h3,
@@ -17,7 +21,7 @@ h4,
 h5,
 h6 {
   color: #222;
-  margin: 0 0 20px;
+  margin-left: 10px;
 }
 
 p,
@@ -26,7 +30,7 @@ ol,
 table,
 pre,
 dl {
-  margin: 0 0 20px;
+  margin-left: 10px;
 }
 
 h1,
@@ -165,7 +169,7 @@ screen and (max-width: 992px) {
 }
 
 .git-wiki-main-logo {
-  max-width: 270px;
+  max-width: 100%;
 }
 
 #git-wiki-sidebar .git-wiki-downloads {
