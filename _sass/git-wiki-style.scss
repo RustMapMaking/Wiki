@@ -59,8 +59,11 @@ git-wiki-tools{
   text-decoration: none;
 }
 
-a:-webkit-any-link {
+a {
   color: #CD412B;
+  }
+a:-webkit-any-link {
+  color: inherit;
   text-decoration: inherit;
   font-weight: inherit;
 }
