@@ -1,3 +1,5 @@
+TOPOLOGY RULES FOR RUST
+
 [ResourceDebug] loot : 
 Biome: Arid, Temperate, Tundra, Arctic
 Splat: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
