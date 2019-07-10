@@ -276,11 +276,12 @@ footer {
   }
   
 .tools-element a {
-  color: #DEDEDE;
+  color: #CD412B;
   }
   
 .tools-element a:hover {
-  color: #CD412B;
+  transition: 0.25s;
+  color: #DEDEDE;
   }
 
 @media print,
