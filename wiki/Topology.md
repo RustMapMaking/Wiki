@@ -1,6 +1,6 @@
 TOPOLOGY RULES FOR RUST
 
-[Loot] : 
+[Loot] : <br>
 <u>Biome</u>: Arid, Temperate, Tundra, Arctic<br>
 <u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel<br>
 <u>Allowed Topology</u>: Monument<br>
