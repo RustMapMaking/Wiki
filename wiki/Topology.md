@@ -3,9 +3,9 @@ title: TOPOLOGY RULES FOR RUST
 ---
 
 <h1>TOPOLOGY RULES FOR RUST</h1>
-<p>Status: <span class="w3-tag">Done</span></p> 
-
-[LOOT] 
+<div class="w3-bar w3-green">
+  <div class="w3-bar-item">LOOT</div>
+</div>
 <br><u>Biome</u>: Arid, Temperate, Tundra, Arctic
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Monument
@@ -13,8 +13,9 @@ title: TOPOLOGY RULES FOR RUST
 
  
 
-
-[ORES] 
+<div class="w3-bar w3-green">
+  <div class="w3-bar-item">ORES</div>
+</div>
 <br><u>Biome</u>: Temperate, Tundra
 <br><u>Splat</u>: Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel
 <br><u>Allowed Topology</u>: Decor, Cliffside, Clutter
