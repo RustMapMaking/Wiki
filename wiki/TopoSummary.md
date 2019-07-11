@@ -1,6 +1,5 @@
 ---
 title: Rust Topologies - Summary 
-layout: git-wiki-default
 ---
 
 <h3>Rust Topology</h3>
