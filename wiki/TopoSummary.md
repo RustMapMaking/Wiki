@@ -40,7 +40,7 @@ layout: git-wiki-default
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Riverside,Lakeside</td>
+  <td markdown="span">Riverside,Lakeside<span style="color:red;font-family: "Webdings">u</span></td>
  </tr>
 <tr >
   <td>Collectable-STONE</td>
