@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 @import "w3.scss";
+@font-face { font-family: Rust; src: url('fonts/Rust.ttf2'); }
 
 body {
   background-color: #DEDEDE;
@@ -54,13 +55,17 @@ h6 {
   color: #494949;
 }
 
-a {
-  color: #39c;
+git-wiki-tools{
+  color: #DEDEDE;
   text-decoration: none;
 }
 
-a:hover {
-  color: #069;
+a {
+  color: #CD412B;
+  }
+  
+a:-webkit-any-link {
+text-decoration: none;
 }
 
 a small {
@@ -257,16 +262,29 @@ footer {
 }
 
 .tools-element {
-  border-left: aqua;
-  background-color: black ;
+  border-left: #2E2E2E;
+  background-color: #414141;
   border-left-style: solid;
   padding-left: 10px;
   padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font: 20px/1.5 "Rust";
+  color: #DEDEDE;
 }
 
 .tools-element:hover {
-  transition: 1s;
-  background-color: white ;
+  transition: 0.25s;
+  border-color: #CD412B;
+  }
+  
+.tools-element a {
+  color: #CD412B;
+  }
+  
+.tools-element a:hover {
+  transition: 0.25s;
+  color: #DEDEDE;
   }
 
 @media print,
@@ -383,14 +401,18 @@ screen and (max-width: 480px) {
   margin-bottom: 50px;
 }
 
+#search-input {
+  margin-left: 10px;
+  }
+
 #results-container li {
   list-style-type: none;
 }
 
-.external-link {
+/*.external-link {
   background-position: center right;
   background-repeat: no-repeat;
   background-image: url("../images/external-link-ltr-icon.png");
   background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
   padding-right: 13px;
-}
+} */
