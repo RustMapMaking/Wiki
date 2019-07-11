@@ -265,13 +265,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Beachside</td>
-  <td markdown="span">River</td>
-  <td markdown="span">Riverside</td>
-  <td markdown="span">Lake</td>
-  <td markdown="span">Lakeside</td>
-  
+  <td markdown="span">Field,Beachside,River<br>Riverside,Lake,Lakeside</td>
  </tr>
  <tr >
   <td>Arid Palms Light</td>
@@ -287,12 +281,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Cliff</td>
-  <td markdown="span">Beachside</td>
-  <td markdown="span">Forestside</td>
-  <td markdown="span">Riverside</td>
-  <td markdown="span">Lakeside</td>
+  <td markdown="span">Field,Beachside,River<br>Riverside,Lake,Lakeside</td>
  
  </tr>
 <tr>
@@ -309,11 +298,7 @@ layout: git-wiki-default
   <td markdown="span">x</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Beachside</td>
-  <td markdown="span">Forest</td>
-  <td markdown="span">Lakeside</td>
-  <td markdown="span">Cliffside</td>
-  
+   <td markdown="span">Beachside,Forest,Lakeside,Cliffside</td>
  </tr>
 <tr>
  <td>Arid Cactus</td>
@@ -346,9 +331,7 @@ layout: git-wiki-default
   <td markdown="span">x</td>
   <td markdown="span">x</td>
   <td markdown="span">x</td>
-  <td markdown="span">Roadside</td>
-  <td markdown="span">Powerline</td>
-  
+   <td markdown="span">Roadside,Powerline</td>
  </tr>
 <tr>
  <td>Junkpiles Water</td>
@@ -398,9 +381,7 @@ layout: git-wiki-default
   <td markdown="span">x</td>
   <td markdown="span">x</td>
   <td markdown="span">x</td>
-  <td markdown="span">Forest</td>
-  <td markdown="span">Forestside</td>
-  
+  <td markdown="span">Forest,Forestside</td>
  </tr>
 <tr>
  <td>LOGS Snow</td>
@@ -416,8 +397,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Forest</td>
-  <td markdown="span">Forestside</td>
+   <td markdown="span">Forest,Forestside</td>
  
  </tr>
 <tr>
@@ -434,8 +414,7 @@ layout: git-wiki-default
   <td markdown="span">x</td>
   <td markdown="span">x</td>
   <td markdown="span">x</td>
-  <td markdown="span">Forest</td>
-  <td markdown="span">Forestside</td>
+    <td markdown="span">Forest,Forestside</td>
   
  </tr>
 <tr>
@@ -452,10 +431,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Beachside</td>
-  <td markdown="span">Riverside</td>
-  <td markdown="span">Lakeside</td>
- 
+  <td markdown="span">Beachside,Riverside,Lakeside</td>
  </tr>
 <tr>
  <td>Temp Field Sm</td>
@@ -471,10 +447,8 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Cliffside</td>
-  
- </tr>
+  <td markdown="span">Field,Cliffside</td>
+  </tr>
 <tr>
  <td>Temp Field Lg</td>
   <td markdown="span"></td>
@@ -489,11 +463,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Decor</td>
-  <td markdown="span">Cliffside</td>
-  <td markdown="span">Hilltop</td>
-  
+  <td markdown="span">Field,Decor,Cliffside,Hilltop</td>
  </tr>
 <tr>
  <td>Temp Forest Deciduous</td>
@@ -509,10 +479,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Decor</td>
-  <td markdown="span">Cliffside</td>
-  <td markdown="span">Hilltop</td>
+  <td markdown="span">Forest,Decor,Cliffside,Clutter</td>
  
  </tr>
 
@@ -529,11 +496,8 @@ layout: git-wiki-default
   <td markdown="span">x</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Forest</td>
-  <td markdown="span">Decor</td>
-  <td markdown="span">Cliffside</td>
-  <td markdown="span">Clutter</td>
-  
+  <td markdown="span">Forest,Decor,Cliffside,Clutter</td>
+ 
  </tr>
  <tr>
 <td>Rowboat</td>
@@ -549,8 +513,7 @@ layout: git-wiki-default
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
-  <td markdown="span">Beachside</td>
-  <td markdown="span">Oceanside</td>
+  <td markdown="span">Beachside,Oceanside</td>
   
  </tr>
  <tr>
@@ -602,7 +565,7 @@ layout: git-wiki-default
   <td markdown="span">Field</td>
  
  </tr>
- <tr><td>Drinkeable Water</td>
+ <tr><td>Drinkable Water</td>
   <td markdown="span">x</td>
   <td markdown="span">x</td>
   <td markdown="span">x</td>
