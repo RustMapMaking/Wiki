@@ -120,16 +120,12 @@ table tr {
 table tr:nth-child(2n) {
 background-color: #f6f8fa;
   }
-  
-table th td {
-  border: 1px solid #c6cbdw1
-  }
 
 th,
 td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid #e5e5e5;
+  border: 1px solid #e5e5e5;
 }
 
 dt {
