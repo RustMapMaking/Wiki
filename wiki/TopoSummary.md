@@ -1,4 +1,4 @@
-<table border=1>
+<table>
 
 <thead>
 <tr class="header">
@@ -38,6 +38,42 @@
 <td markdown="span"></td>
 <td markdown="span">&nbsp;</td>
 <td markdown="span">Riverside, Lakeside</td>
+</tr>
+<tr>
+<td markdown="span">Collectable-STONE</td>
+<td markdown="span">x</td>
+<td markdown="span">x</td>
+<td markdown="span">x</td>
+<td markdown="span"></td>
+<td markdown="span">&nbps;</td>
+<td markdown="span">x</td>
+<td markdown="span">x</td>
+<td markdown="span">x</td>
+<td markdown="span"></td>
+<td markdown="span">x</td>
+<td markdown="span">x</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+<td markdown="span">&nbsp;</td>
+<td markdown="span">Field, Forest</td>
+</tr>
+<tr>
+<td markdown="span">Collectable-HEMP</td>
+<td markdown="span"></td>
+<td markdown="span">x</td>
+<td markdown="span">x</td>
+<td markdown="span"></td>
+<td markdown="span">&nbps;</td>
+<td markdown="span">x</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+<td markdown="span">x</td>
+<td markdown="span">x</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+<td markdown="span">&nbsp;</td>
+<td markdown="span">Field, Forest</td>
 </tr>
 </tbody>
 </table>
