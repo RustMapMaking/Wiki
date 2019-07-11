@@ -10,7 +10,6 @@
    <th>Temp</th>
    <th>Tundra</th>
    <th>Arctic</th>
- <th>&nbsp;</th>
 <th>Dirt</th>
 <th>Snow</th>
 <th>Sand</th>
@@ -19,7 +18,6 @@
 <th>Forest</th>
 <th>Stones</th>
 <th>Gravel</th>
-<th>&nbsp;</th>
 <th>Allowed</th>
 </tr>
 </thead>
