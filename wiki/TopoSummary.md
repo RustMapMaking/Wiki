@@ -500,7 +500,7 @@ layout: git-wiki-default
  
  </tr>
  <tr>
-   <td><h3>Unconfirmed</h3></td>
+   <td><b>Unconfirmed</b></td>
   </tr>
  <tr>
 <td>Rowboat</td>
