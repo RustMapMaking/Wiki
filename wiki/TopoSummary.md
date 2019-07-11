@@ -1,8 +1,5 @@
 <table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
+
 <thead>
 <tr class="header">
    <th></th>
