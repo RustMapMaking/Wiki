@@ -28,32 +28,32 @@ layout: git-wiki-default
 <tbody>
  <tr >
   <td>Collectable-CORN</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Riverside,Lakeside</td>
  </tr>
 <tr >
   <td>Collectable-STONE</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Field,Forest</td>
@@ -61,31 +61,31 @@ layout: git-wiki-default
  <tr >
   <td>Collectable-HEMP</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Field,Forest</td>
  </tr>
  <tr >
   <td >Collectable-WOOD</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Field,Cliff,Beachside,<br>Forestside,Forest,Oceanside,<br>Riverside,Lakeside,Cliffside</td>
@@ -94,14 +94,14 @@ layout: git-wiki-default
  <td>Collectable-MUSHROOM</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Forest</td>
@@ -109,64 +109,64 @@ layout: git-wiki-default
  </tr>
  <tr >
   <td>Collectable-PUMPKIN</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Riverside,Lakeside</td>
  </tr>
  <tr >
   <td>LOOT</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">Monument</td>
  </tr>
 <tr >
   <td>ORES</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">Decor,Cliffside,Clutter</td>
  </tr>
  <tr >
   <td>Temp Forest</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td>
@@ -174,15 +174,15 @@ layout: git-wiki-default
  <tr >
   <td>Temp Forest Sm</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td>
@@ -191,14 +191,14 @@ layout: git-wiki-default
   <td>Tundra Forest</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
  <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td> 
@@ -207,14 +207,14 @@ layout: git-wiki-default
   <td>Tundra Forest Sm</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
  <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td>
@@ -224,12 +224,12 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -240,13 +240,13 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Forest</td>
@@ -254,15 +254,15 @@ layout: git-wiki-default
  </tr>
  <tr >
   <td>Arid Palms Dense</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -270,7 +270,7 @@ layout: git-wiki-default
  </tr>
  <tr >
   <td>Arid Palms Light</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -278,7 +278,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -287,7 +287,7 @@ layout: git-wiki-default
  </tr>
 <tr>
  <td>Arid Palms SuperDense</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -296,20 +296,20 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
    <td markdown="span">Beachside,Forest,Lakeside,Cliffside</td>
  </tr>
 <tr>
  <td>Arid Cactus</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -320,51 +320,51 @@ layout: git-wiki-default
  </tr>
 <tr>
  <td>Junkpiles</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
    <td markdown="span">Roadside,Powerline</td>
  </tr>
 <tr>
  <td>Junkpiles Water</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">Offshore</td>
   
  </tr>
 <tr>
  <td>Driftwood</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">Beach</td>
  
  </tr>
@@ -372,16 +372,16 @@ layout: git-wiki-default
  <td>LOGS Dry</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">Forest,Forestside</td>
  </tr>
 <tr>
@@ -389,9 +389,9 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -404,31 +404,31 @@ layout: git-wiki-default
 <tr>
  <td>LOGS Wet</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
     <td markdown="span">Forest,Forestside</td>
   
  </tr>
 <tr>
  <td>Temp Beachforest Sm</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -437,14 +437,14 @@ layout: git-wiki-default
 <tr>
  <td>Temp Field Sm</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -453,14 +453,14 @@ layout: git-wiki-default
 <tr>
  <td>Temp Field Lg</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -469,14 +469,14 @@ layout: git-wiki-default
 <tr>
  <td>Temp Forest Deciduous</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
@@ -484,15 +484,15 @@ layout: git-wiki-default
  </tr>
  <tr><td>Temp Forest Deciduous Sm</td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span">Forest,Decor,Cliffside,Clutter</td>
@@ -502,10 +502,10 @@ layout: git-wiki-default
   </tr>
  <tr>
 <td>Rowboat</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
@@ -519,10 +519,10 @@ layout: git-wiki-default
  </tr>
  <tr>
 <td>RHIB Boat</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
@@ -535,10 +535,10 @@ layout: git-wiki-default
   
  </tr>
  <tr><td>Mini-copter</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
@@ -551,10 +551,10 @@ layout: git-wiki-default
  
  </tr>
  <tr><td>Hot Air Balloon</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
@@ -567,10 +567,10 @@ layout: git-wiki-default
  
  </tr>
  <tr><td>Drinkable Water</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
@@ -582,10 +582,10 @@ layout: git-wiki-default
   <td markdown="span">River,Lake</td>
  </tr>
  <tr><td>Animals</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
@@ -600,7 +600,7 @@ layout: git-wiki-default
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">x</td>
+  <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
