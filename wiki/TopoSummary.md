@@ -1,4 +1,4 @@
-<table>
+<table border=1>
 
 <thead>
 <tr class="header">
@@ -27,7 +27,7 @@
 <td markdown="span">x</td>
 <td markdown="span">x</td>
 <td markdown="span"></td>
-<td markdown="span">|</td>
+<td markdown="span">&nbps;</td>
 <td markdown="span"></td>
 <td markdown="span"></td>
 <td markdown="span"></td>
@@ -36,7 +36,7 @@
 <td markdown="span">x</td>
 <td markdown="span"></td>
 <td markdown="span"></td>
-<td markdown="span">|</td>
+<td markdown="span">&nbsp;</td>
 <td markdown="span">Riverside, Lakeside</td>
 </tr>
 </tbody>
