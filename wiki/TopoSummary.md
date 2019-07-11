@@ -37,9 +37,7 @@
   <td markdown="span">x</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Riverside</td>
-  <td markdown="span">Lakeside</td>
- 
+  <td markdown="span">Riverside,Lakeside</td>
  </tr>
 <tr >
   <td>Collectable-STONE</td>
@@ -55,9 +53,7 @@
   <td markdown="span">x</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Forest</td>
- 
+  <td markdown="span">Field,Forest</td>
  </tr>
  <tr >
   <td>Collectable-HEMP</td>
@@ -73,9 +69,7 @@
   <td markdown="span">x</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Forest</td>
-  
+  <td markdown="span">Field,Forest</td>
  </tr>
  <tr >
   <td >Collectable-WOOD</td>
@@ -91,15 +85,7 @@
   <td markdown="span">x</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field</td>
-  <td markdown="span">Cliff</td>
-  <td markdown="span">Beachside</td>
-  <td markdown="span">Forestside</td>
-  <td markdown="span">Forest</td>
-  <td markdown="span">Oceanside</td>
-  <td markdown="span">Riverside</td>
-  <td markdown="span">Lakeside</td>
-  <td markdown="span">Cliffside</td>
+  <td markdown="span">Field,Cliff,Beachside,Forestside,Forest,Oceanside,Riverside,Lakeside,Cliffside</td>
  </tr>
  <tr>
  <td>Collectable-MUSHROOM</td>
