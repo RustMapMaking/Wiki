@@ -39,7 +39,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Riverside,Lakeside<span style="color:red;font-family: 'Wingdings 2'">&#117;</span></td>
+  <td markdown="span">Riverside,Lakeside<span style="color:red;font-family: 'Wingdings 2'">&#120;</span></td>
  </tr>
 <tr >
   <td>Collectable-STONE</td>
