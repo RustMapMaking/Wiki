@@ -6,7 +6,7 @@
 <thead>
 <tr class="header">
    <th></th>
-   <th>Arid</th>
+   <th markdown="center">Arid</th>
    <th>Temp</th>
    <th>Tundra</th>
    <th>Arctic</th>
