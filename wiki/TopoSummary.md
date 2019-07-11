@@ -582,9 +582,41 @@ layout: git-wiki-default
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">River,Lake</td>
- 
  </tr>
 
+ </tr>
+ <tr><td>Animals</td>
+  <td markdown="span">x</td>
+  <td markdown="span">x</td>
+  <td markdown="span">x</td>
+  <td markdown="span">x</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">Mainland</td>
+ </tr>
+ 
+  </tr>
+ <tr><td>Iceburgs</td>
+  <td markdown="span"></td>
+  <td markdown="span"></td>
+  <td markdown="span"></td>
+  <td markdown="span">x</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">Ocean, Offshore</td>
+ </tr>
 
 </tbody>
 </table>
