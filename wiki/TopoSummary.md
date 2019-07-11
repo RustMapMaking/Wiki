@@ -2,27 +2,27 @@
 <h2>Rust Topology</h2>
 <h3>Summarized</h3>
 <p>Below you will find what topologies run what items in-game.  Allowed Topologies are the only topologies that will cause these items to spawn.</p>
+
 <table>
 <thead>
 <tr class="header">
    <th></th>
-   <th markdown="center">Arid</th>
+   <th>Arid</th>
    <th>Temp</th>
    <th>Tundra</th>
    <th>Arctic</th>
-<th>Dirt</th>
-<th>Snow</th>
-<th>Sand</th>
-<th>Rock</th>
-<th>Grass</th>
-<th>Forest</th>
-<th>Stones</th>
-<th>Gravel</th>
-<th>Allowed</th>
+   <th>Dirt</th>
+   <th>Snow</th>
+    <th>Sand</th>
+   <th>Rock</th>
+   <th>Grass</th>
+   <th>Forest</th>
+   <th>Stones</th>
+   <th>Gravel</th>
+   <th>Allowed<br>Topologies</th>
 </tr>
 </thead>
 <tbody>
- 
  <tr >
   <td>Collectable-CORN</td>
   <td markdown="span">x</td>
@@ -85,7 +85,7 @@
   <td markdown="span">x</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Cliff,Beachside,Forestside,Forest,Oceanside,Riverside,Lakeside,Cliffside</td>
+  <td markdown="span">Field,Cliff,Beachside,<br>Forestside,Forest,Oceanside,<br>Riverside,Lakeside,Cliffside</td>
  </tr>
  <tr>
  <td>Collectable-MUSHROOM</td>
