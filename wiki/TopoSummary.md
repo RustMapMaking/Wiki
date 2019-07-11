@@ -1,11 +1,10 @@
 ---
 title: Rust Topologies - Summary 
-layout: default
+layout: git-wiki-default
 ---
 <h2>Rust Topology</h2>
 <h3>Summarized</h3>
 <p>Below you will find what topologies run what items in-game.  Allowed Topologies are the only topologies that will cause these items to spawn.</p>
-
 <table>
 <thead>
 <tr class="header">
@@ -560,6 +559,7 @@ layout: default
   <td markdown="span">Clutter</td>
   
  </tr>
+ <tr>
 <td>Rowboat</td>
   <td markdown="span">x</td>
   <td markdown="span">x</td>
@@ -577,6 +577,7 @@ layout: default
   <td markdown="span">Oceanside</td>
   
  </tr>
+ <tr>
 <td>RHIB Boat</td>
   <td markdown="span">x</td>
   <td markdown="span">x</td>
