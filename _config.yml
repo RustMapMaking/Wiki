@@ -97,6 +97,7 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-avatar
+ - jemoji
  - jekyll-mentions
 
 
