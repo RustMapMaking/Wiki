@@ -2,7 +2,8 @@
 title: Rust Topologies - Summary 
 layout: git-wiki-default
 ---
-<h1>Rust Topology</h1>
+
+<h3>Rust Topology</h3>
 <h3>Summarized</h3>
 <p>Below you will find what topologies run what items in-game.  Allowed Topologies are the only topologies that will cause these items to spawn.</p>
 <table>
