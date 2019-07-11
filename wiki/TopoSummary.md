@@ -22,58 +22,58 @@
 </thead>
 <tbody>
 <tr>
-<td markdown="span">Collectable-CORN</td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span">&nbsp;</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span">&nbsp;</td>
-<td markdown="span">Riverside, Lakeside</td>
+<td align=center markdown="span">Collectable-CORN</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">&nbsp;</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">&nbsp;</td>
+<td align=center markdown="span">Riverside, Lakeside</td>
 </tr>
 <tr>
-<td markdown="span">Collectable-STONE</td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span">&nbsp;</td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span">&nbsp;</td>
-<td markdown="span">Field, Forest</td>
+<td align=center markdown="span">Collectable-STONE</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">&nbsp;</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">&nbsp;</td>
+<td align=center markdown="span">Field, Forest</td>
 </tr>
 <tr>
-<td markdown="span">Collectable-HEMP</td>
-<td markdown="span"></td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span">&nbsp;</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span">x</td>
-<td markdown="span">x</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span">&nbsp;</td>
-<td markdown="span">Field, Forest</td>
+<td align=center markdown="span">Collectable-HEMP</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">&nbsp;</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span">x</td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span"></td>
+<td align=center markdown="span">&nbsp;</td>
+<td align=center markdown="span">Field, Forest</td>
 </tr>
 </tbody>
 </table>
