@@ -27,7 +27,7 @@
 <td markdown="span">x</td>
 <td markdown="span">x</td>
 <td markdown="span"></td>
-<td markdown="span">&nbps;</td>
+<td markdown="span">&nbsp;</td>
 <td markdown="span"></td>
 <td markdown="span"></td>
 <td markdown="span"></td>
@@ -45,7 +45,7 @@
 <td markdown="span">x</td>
 <td markdown="span">x</td>
 <td markdown="span"></td>
-<td markdown="span">&nbps;</td>
+<td markdown="span">&nbsp;</td>
 <td markdown="span">x</td>
 <td markdown="span">x</td>
 <td markdown="span">x</td>
@@ -63,7 +63,7 @@
 <td markdown="span">x</td>
 <td markdown="span">x</td>
 <td markdown="span"></td>
-<td markdown="span">&nbps;</td>
+<td markdown="span">&nbsp;</td>
 <td markdown="span">x</td>
 <td markdown="span"></td>
 <td markdown="span"></td>
