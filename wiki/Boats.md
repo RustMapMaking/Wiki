@@ -23,7 +23,7 @@ title: Boats
       <ul>
         <li>Have limited Hit Points when you encounter them on the beach</li>
         <li>Need to be repaired ( using Woood & Metal Frags ) while inside a Boathouse with walls and ceiling ( Doors are not necessary i believe )</li>
-        <li>When they are destroyed (0hp) you can no longer push/mount them, their model just sits there.
+        <li>When they are destroyed (0hp) you can no longer push/mount them, their model just sits there.</li>
       </ul>
       <h3>TIPS</h3>
       <ul>
