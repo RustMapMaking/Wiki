@@ -637,7 +637,7 @@ title: Rust Topologies - Summary
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
-  <td markdown="span">Beachside + Oceanside + Beach + Mainland + Tier0</td>
+  <td markdown="span">Beachside + Oceanside + Beach + <br> Mainland + Tier0</td>
  </tr>
 </tbody>
 </table>
