@@ -133,6 +133,13 @@ title: Monuments
     <td></td>
     <td>0%</td>
   </tr>
+   <tr>
+    <td>Junkyard</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
   <tr>
     <td>Cargoship</td>
     <td>:heavy_check_mark:</td>
