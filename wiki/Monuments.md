@@ -4,7 +4,7 @@ title: Monuments
 
 <p>
   
-<center><img src="images/monuments.png"></center>
+<center><img src="wiki/images/monuments.png"></center>
 
 <p>
 <table>
@@ -28,7 +28,7 @@ title: Monuments
       <th>Tier 0</th>
        <th>Tier 1</th>
        <th>Tier 2</th>
-      <th>Suggested RadProt%</th>
+      <th>Suggested Rad Protection %</th>
   </tr>
   <tr>
     <td>Warehouse/Outpost</td>
@@ -37,32 +37,131 @@ title: Monuments
     <td></td>
     <td>0%</td>
   </tr>
+   <tr>
+    <td>Lighthouse</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+   <tr>
+    <td>Gas Station</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+   <tr>
+    <td>Supermarket</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+   <tr>
+    <td>Mining Outpost</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+   <tr>
+    <td>Small Oil Rig</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+   <tr>
+    <td>Large Oil Rig</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+    <tr>
+    <td>Cargoship</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+   <tr>
+    <td>Harbor</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td>15%</td>
+  </tr>
+   <tr>
+    <td>Airfield</td>
+    <td></td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td>15%</td>
+  </tr>
+   <tr>
+    <td>Satellite Dish </td>
+   <td></td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td>15%</td>
+  </tr>
+   <tr>
+    <td>Dome</td>
+   <td></td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td>15%</td>
+  </tr>
+   <tr>
+    <td>Water Treatment</td>
+   <td></td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td>15%</td>
+  </tr>
+   <tr>
+    <td>Trainyard</td>
+    <td></td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td>15%</td>
+  </tr>
+   <tr>
+    <td>Launch Site</td>
+    <td></td>
+    <td></td>
+    <td>:heavy_check_mark:</td>
+    <td>23%</td>
+  </tr>
+   <tr>
+    <td>Power Plant</td>
+    <td></td>
+    <td></td>
+    <td>:heavy_check_mark:</td>
+    <td>25%</td>
+  </tr>
+   <tr>
+    <td>Military Tunnels</td>
+    <td></td>
+    <td></td>
+    <td>:heavy_check_mark:</td>
+    <td>0%</td>
+  </tr>
  </table>
  
-  Warehouse tier 0
-
+<!--  Warehouse tier 0
 Gas station tier 0
-
 Lighthouse tier 0
-
 Supermarket tier 0
-
 Harbor tier 0 and 1
-
 Airfield tier 1
-
 Satellite dish tier 1
-
 Dome tier 1
-
 'Radtown 3' tier 1
-
 Trainyard tier 1
-
 Water treatment plant tier 1
-
 Launch site tier 2
-
 military tunnels tier 2
-
-Powerplant tier 2
+Powerplant tier 2  -->
