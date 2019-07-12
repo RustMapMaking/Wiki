@@ -2,8 +2,9 @@
 title: Monuments
 ---
 
-<h3>Monuments</h3>
-<hr>
+<p>
+  
+<center><img src="images/monuments.png"></center>
 
 <p>
   Warehouse tier 0
