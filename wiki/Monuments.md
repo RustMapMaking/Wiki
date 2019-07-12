@@ -40,11 +40,20 @@ title: Monuments
       <th>Oil Furnace</th>
   </tr>
   <tr>
-    <td>Warehouse/Outpost</td>
+    <td>Warehouse</td>
     <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
     <td>0%</td>
+     <td></td>
+     <td></td>
+    <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+    <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+     <td></td>
   </tr>
    <tr>
     <td>Lighthouse</td>
