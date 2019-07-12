@@ -2,8 +2,7 @@
 title: Spawnpoints
 ---
 
-<h3>Spawnpoints</h3>
-<hr>
+
 <center><img width="98%" src="wiki/images/spawn_a.png"></center>
 <p>
 <table>
