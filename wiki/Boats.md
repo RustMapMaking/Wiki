@@ -19,7 +19,7 @@ title: Boats
  <p><p>
 
   <table>
-  <td> <h3>ROWBOAT</h3><img src="wiki/images/rowboat.png"></td>
+  <td> <h3>ROWBOAT</h3><img width="326" src="wiki/images/rowboat.png"></td>
     <td>
       <h3>FACTS</h3>
       <ul>
@@ -38,7 +38,7 @@ title: Boats
   </table>
 
   <table>
-   <td> <h3>R.H.I.B.</h3><img src="wiki/images/rhib.png"></td>
+   <td> <h3>R.H.I.B.</h3><img  width="326" src="wiki/images/rhib.png"></td>
     <td>
       <h3>FACTS</h3>
       <ul>
