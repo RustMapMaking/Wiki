@@ -4,7 +4,7 @@ title: NPCs
 
 <p>
   
-<center><img src="wiki/images/npc.png"></center>
+<center><img src="wiki/images/npcs.png"></center>
 
 <p>
 
