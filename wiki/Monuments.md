@@ -28,7 +28,16 @@ title: Monuments
       <th>Tier 0</th>
        <th>Tier 1</th>
        <th>Tier 2</th>
-      <th>Suggested Rad Protection %</th>
+      <th>Suggested Rad Prot.</th>
+      <th>Food</th>
+      <th>Toolbox</th>
+      <th>Wood Crate</th>
+      <th>Mil. Crate</th>
+      <th>Elite Crate</th>
+      <th>Recycler</th>
+      <th>Research Table</th>
+      <th>Workbench</th>
+      <th>Oil Furnace</th>
   </tr>
   <tr>
     <td>Warehouse/Outpost</td>
