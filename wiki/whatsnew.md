@@ -7,5 +7,5 @@ title: What's New
 <center><img src="wiki/images/whatsnew.png"></center>
 
 <p>
-<table><td>07/12/2019<td></table>
+<table><td>07/12/2019</td></table>
 <p>Excavator commits and HDRP ( High Def Render Pipeline )</p>
