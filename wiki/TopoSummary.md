@@ -68,7 +68,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Forest</td>
+  <td markdown="span">Field, Forest</td>
  </tr>
  <tr >
   <td>Collectable-HEMP</td>
@@ -100,7 +100,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Cliff,Beachside,<br>Forestside,Forest,Oceanside,<br>Riverside,Lakeside,Cliffside</td>
+  <td markdown="span">Field, Cliff, Beachside,<br>Forestside, Forest, Oceanside,<br>Riverside, Lakeside, Cliffside</td>
  </tr>
  <tr>
  <td>Collectable-MUSHROOM</td>
@@ -133,7 +133,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Riverside,Lakeside</td>
+  <td markdown="span">Riverside, Lakeside</td>
  </tr>
  <tr >
   <td>LOOT</td>
@@ -165,7 +165,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
-  <td markdown="span">Decor,Cliffside,Clutter</td>
+  <td markdown="span">Decor, Cliffside, Clutter</td>
  </tr>
  <tr >
   <td>Temp Forest</td>
@@ -181,7 +181,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td>
+  <td markdown="span">Forest, Decor, Cliffside<br>Clutter</td>
  </tr>
  <tr >
   <td>Temp Forest Sm</td>
@@ -197,7 +197,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td>
+  <td markdown="span">Forest, Decor, Cliffside<br>Clutter</td>
  </tr>
 <tr >
   <td>Tundra Forest</td>
@@ -213,7 +213,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
- <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td> 
+ <td markdown="span">Forest, Decor, Cliffside<br>Clutter</td> 
  </tr>
  <tr >
   <td>Tundra Forest Sm</td>
@@ -229,7 +229,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
- <td markdown="span">Forest,Decor,Cliffside<br>Clutter</td>
+ <td markdown="span">Forest, Decor, Cliffside<br>Clutter</td>
  </tr>
 <tr >
   <td>Arctic Forest</td>
@@ -245,7 +245,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Cliffside</td>
+  <td markdown="span">Field, Cliffside</td>
  </tr>
  <tr >
   <td>Arctic Forest Snow</td>
@@ -278,7 +278,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Beachside,River<br>Riverside,Lake,Lakeside</td>
+  <td markdown="span">Field, Beachside, River<br>Riverside, Lake, Lakeside</td>
  </tr>
  <tr >
   <td>Arid Palms Light</td>
@@ -294,7 +294,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Beachside,River<br>Riverside,Lake,Lakeside</td>
+  <td markdown="span">Field, Beachside, River<br>Riverside, Lake, Lakeside</td>
  
  </tr>
 <tr>
@@ -311,7 +311,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-   <td markdown="span">Beachside,Forest,Lakeside,Cliffside</td>
+   <td markdown="span">Beachside, Forest, Lakeside, Cliffside</td>
  </tr>
 <tr>
  <td>Arid Cactus</td>
@@ -344,7 +344,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
-   <td markdown="span">Roadside,Powerline</td>
+   <td markdown="span">Roadside, Powerline</td>
  </tr>
 <tr>
  <td>Junkpiles Water</td>
@@ -394,7 +394,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
-  <td markdown="span">Forest,Forestside</td>
+  <td markdown="span">Forest, Forestside</td>
  </tr>
 <tr>
  <td>LOGS Snow</td>
@@ -410,7 +410,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-   <td markdown="span">Forest,Forestside</td>
+   <td markdown="span">Forest, Forestside</td>
  
  </tr>
 <tr>
@@ -427,7 +427,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span">:heavy_check_mark:</td>
-    <td markdown="span">Forest,Forestside</td>
+    <td markdown="span">Forest, Forestside</td>
   
  </tr>
 <tr>
@@ -444,7 +444,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Beachside,Riverside,Lakeside</td>
+  <td markdown="span">Beachside, Riverside, Lakeside</td>
  </tr>
 <tr>
  <td>Temp Field Sm</td>
@@ -460,7 +460,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Cliffside</td>
+  <td markdown="span">Field, Cliffside</td>
   </tr>
 <tr>
  <td>Temp Field Lg</td>
@@ -476,7 +476,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Field,Decor,Cliffside,Hilltop</td>
+  <td markdown="span">Field, Decor, Cliffside, Hilltop</td>
  </tr>
 <tr>
  <td>Temp Forest Deciduous</td>
@@ -492,7 +492,7 @@ title: Rust Topologies - Summary
   <td markdown="span"></td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Forest,Decor,Cliffside,Clutter</td>
+  <td markdown="span">Forest, Decor, Cliffside, Clutter</td>
  </tr>
  <tr><td>Temp Forest Deciduous Sm</td>
   <td markdown="span"></td>
@@ -507,7 +507,7 @@ title: Rust Topologies - Summary
   <td markdown="span">:heavy_check_mark:</td>
   <td markdown="span"></td>
   <td markdown="span"></td>
-  <td markdown="span">Forest,Decor,Cliffside,Clutter</td>
+  <td markdown="span">Forest, Decor, Cliffside, Clutter</td>
  </tr>
  <tr>
    <td><b>Unconfirmed</b></td>
@@ -526,7 +526,7 @@ title: Rust Topologies - Summary
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
-  <td markdown="span">Beachside,Oceanside</td>
+  <td markdown="span">Beachside, Oceanside</td>
   
  </tr>
  <tr>
@@ -591,7 +591,7 @@ title: Rust Topologies - Summary
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
   <td markdown="span">&nbsp;</td>
-  <td markdown="span">River,Lake</td>
+  <td markdown="span">River, Lake</td>
  </tr>
  <tr><td>Animals</td>
   <td markdown="span">:heavy_check_mark:</td>
