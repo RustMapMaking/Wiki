@@ -66,6 +66,7 @@ title: Boats
       <ul>
         <li>You will need to bring some guns and meds in order to survive on the ship.</li>
       </ul>
+    </td>
   </td>
   </tr>
   </table>
