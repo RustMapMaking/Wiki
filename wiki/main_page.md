@@ -8,84 +8,21 @@ Welcome to the Rust Map Making wiki.
 
 Make sure to join our discord if you are not already part of our community. [Rust Map Making Discord](https://discord.gg/CwTrTSC)
 
-Insert wiki here
+# Our Goal
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-Emphasis
-*This text will be italic*
-_This will also be italic_
 
-**This text will be bold**
-__This will also be bold__
+Over the past year since Facepunch released their [SDK (Software Development Kit)](https://github.com/Facepunch/Rust.World) for custom map creation in Rust we have learnt that the basic package they released was far more than what we originally thought.
 
-_You **can** combine them_
-Lists
-Unordered
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-Ordered
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-Links
-http://github.com - automatic!
+Not only did it give us the ability to forge our own entire maps for the community to experience. It also handed us a valuable tool in research and understanding of how Rust works. Exposing many details that before then were only speculated and theorized. As a community we began to unravel different areas of the inner workings of Rust and it's key components. 
 
-Blockquotes
-As Kanye West said:
+One issue we faced from the beginning was a lack of shared available information. We had bulky text files and scrapped-together images of snippets of information that may help us with a specific task. Only being accessible through asking around and being sent the documents. From the start we knew we would ultimately be hindered by this limitation of knowledge and transparency.
 
-> We're living the future so
-> the present is our past.
-Inline code
-I think you should use an
-`<addr>` element here instead.
+Although we are originally based out of the [Rust Map Making](https://discord.gg/CwTrTSC) community for custom maps we realise that a lot of the information we have gathered may be useful to the wider Rust community. Be it players who want to know spawn rates of ores, plugin developers who wish to know entity debug information or the map-makers who wish to learn what goes into making a balanced map.
 
-GitHub Flavored Markdown
-GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
+This should give you a rough idea as to why this website exists... 
 
-Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
+We as a team believe strongly in a collaborative effort amongst the entire community to provide a place for all information to be well documented and shared to benefit everyone. Our projects are open-source and can be contributed to by anyone. We believe that hindering others by hiding information and creating a monopoly based on lack of knowledge is unfair, and that everyone should be entitled to the best opportunity of success in the projects they take on.
 
-Syntax highlighting
-Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown:
+Please support, share and bookmark this site if you find it of any use. Thank you.
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-You can also simply indent your code by four spaces:
-
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-Here’s an example of Python code without syntax highlighting:
-
-def foo():
-    if not bar:
-        return True
-Task Lists
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-If you include a task list in the first comment of an Issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
-
-Tables
-You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Tom.
