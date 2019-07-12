@@ -54,4 +54,18 @@ title: Boats
       </ul>
   </td>
   </tr>
+  <tr>
+   <td> <h3>Cargoship</h3><img  width="326" src="wiki/images/cargoship.png"></td>
+    <td>
+      <h3>FACTS</h3>
+      <ul>
+        <li>Has a ladder on the side that you can climb</li>
+       </li>
+      </ul>
+      <h3>TIPS</h3>
+      <ul>
+        <li>You will need to bring some guns and meds in order to survive on the ship.</li>
+      </ul>
+  </td>
+  </tr>
   </table>
