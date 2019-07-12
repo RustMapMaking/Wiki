@@ -222,7 +222,7 @@ title: Monuments
     <td></td>
     <td></td>
     <td>:heavy_check_mark:</td>
-    <td>0%</td>
+    <td>23%</td>
   </tr>
  </table>
  
