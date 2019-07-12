@@ -624,6 +624,20 @@ title: Rust Topologies - Summary
   <td markdown="span">&nbsp;</td>
   <td markdown="span">Ocean, Offshore</td>
  </tr>
-
+ <tr><td>Spawnpoint</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span"></td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">:heavy_check_mark:</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">&nbsp;</td>
+  <td markdown="span">Beachside + Oceanside + Beach + Mainland + Tier0</td>
+ </tr>
 </tbody>
 </table>
