@@ -10,7 +10,7 @@ title: Boats
 
 <h3>Boats in Rust</h3>
 <p>Now that we have boats in Rust, here is how they work</p>
-<p>There are 3 maint types of boats in Rust<p>
+<p>There are 3 main types of boats in Rust<p>
   <ul>
     <li><b>Rowboat</b>: small wooden boat that is usually found on beaches and uses Low Grad Fuel to run</li>
     <li><b>RHIB</b>: larger metal boat that is usually found in Offshore locations and also uses Low Grade Fuel, holds more people, is much faster and is more stable when going over waves.</li>
