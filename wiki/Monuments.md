@@ -37,7 +37,7 @@ title: Monuments
       <th>Recycler</th>
       <th>Research Table</th>
       <th>Workbench</th>
-      <th>Oil Furnace</th>
+      <th>Oil Ref.</th>
   </tr>
   <tr>
     <td>Warehouse</td>
