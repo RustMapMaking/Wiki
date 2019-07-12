@@ -17,9 +17,9 @@ title: Boats
     <li><b>Cargoship</b>: large floating monument that was Scientists, Chinook, Heavy Scientists and lots of Loot</li>
    </ul>
  <p><p>
- <h3>ROWBOAT</h3>
+
   <table>
-  <td><img src="wiki/images/rowboat.png"></td>
+  <td> <h3>ROWBOAT</h3><img src="wiki/images/rowboat.png"></td>
     <td>
       <h3>FACTS</h3>
       <ul>
@@ -36,8 +36,9 @@ title: Boats
       </ul>
   </td>
   </table>
- <h3>R.H.I.B.</h3>
+
   <table>
+   <td> <h3>R.H.I.B.</h3><img src="wiki/images/rhib.png"></td>
     <td>
       <h3>FACTS</h3>
       <ul>
