@@ -17,6 +17,8 @@ title: Rust Topologies - Summary
 <tr>
    <td>&nbsp;</td>
    <td colspan="4">BIOMES</td>
+   <td colspan="8">SPLAT</td>
+   <td>TOPOLOGY</td>
    </tr>
 <tr class="header">
    <th></th>
@@ -32,7 +34,7 @@ title: Rust Topologies - Summary
    <th>Forest</th>
    <th>Stones</th>
    <th>Gravel</th>
-   <th><span style="color:green">Allowed</span>/<span style="color:red">Blocked</span>Topologies</th>
+   <th><span style="color:green">Allowed</span>/<span style="color:red">Blocked</span></th>
 </tr>
 </thead>
 <tbody>
