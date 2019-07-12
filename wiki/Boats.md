@@ -60,7 +60,6 @@ title: Boats
       <h3>FACTS</h3>
       <ul>
         <li>Has a ladder on the side that you can climb</li>
-       </li>
       </ul>
       <h3>TIPS</h3>
       <ul>
