@@ -4,7 +4,12 @@ title: Rust Topologies - Summary
 
 <h3>Rust Topology</h3>
 <h4>Summarized</h4>
-<p>Below you will find what topologies run what items in-game.  Allowed Topologies are the only topologies that will cause these items to spawn.</p>
+<p>What is Topology?</p>
+<p>Topology is the group of layers that make up the map we walk on in-game. These are divided into 3 groups:</p>
+<ul>
+   <li>item1
+</ul>
+<p>Below you will find what topologies do what in-game.  Allowed Topologies are the only topologies that will cause these items to spawn. Green #s will reference Allowed topologies and red #s will reference the blocking topologies.</p>
 <table>
 <thead>
 <tr class="header">
