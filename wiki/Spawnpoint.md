@@ -6,7 +6,7 @@ title: Spawnpoints
 <hr>
 <center><img height="200" src="wiki/images/spawn.png"></center>
 
-
+<br>
 <table>
   <tr><td colspan="2">What is a spawnpoint?</td></tr>
   <tr>
