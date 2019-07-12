@@ -7,7 +7,7 @@ title: Rust Topologies - Summary
 <p>What is Topology?</p>
 <p>Topology is the group of layers that make up the map we walk on in-game. These are divided into 3 groups:</p>
 <ul>
-   <li>item1
+   <li>item1</li>
 </ul>
 <p>Below you will find what topologies do what in-game.  Allowed Topologies are the only topologies that will cause these items to spawn. Green #s will reference Allowed topologies and red #s will reference the blocking topologies.</p>
 <table>
