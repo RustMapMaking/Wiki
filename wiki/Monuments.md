@@ -109,6 +109,15 @@ title: Monuments
     <td></td>
     <td></td>
     <td>0%</td>
+    <td></td>
+     <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+     <td></td>
   </tr>
    <tr>
     <td>Small Oil Rig</td>
@@ -124,8 +133,22 @@ title: Monuments
     <td></td>
     <td>0%</td>
   </tr>
-    <tr>
+  <tr>
     <td>Cargoship</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+    <tr>
+    <td>Bandit Outpost</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+    <tr>
+    <td>Outpost</td>
     <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
