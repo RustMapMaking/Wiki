@@ -14,6 +14,10 @@ title: Rust Topologies - Summary
 <p>Below you will find what topologies do what in-game.  Allowed Topologies are the only topologies that will cause these items to spawn. Green #s will reference Allowed topologies and red #s will reference the blocking topologies.</p>
 <table>
 <thead>
+<tr>
+   <th>&nbsp;</th>
+   <th colspan=4>BIOMES</th>
+   </tr>
 <tr class="header">
    <th></th>
    <th>Arid</th>
