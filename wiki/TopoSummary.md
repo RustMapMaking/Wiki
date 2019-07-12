@@ -15,8 +15,8 @@ title: Rust Topologies - Summary
 <table>
 <thead>
 <tr>
-   <th>&nbsp;</th>
-   <th colspan=4>BIOMES</th>
+   <td>&nbsp;</td>
+   <td colspan="4">BIOMES</td>
    </tr>
 <tr class="header">
    <th></th>
