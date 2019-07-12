@@ -2,8 +2,8 @@
 title: Rust Topologies - Summary 
 ---
 
-<h3>Rust Topology</h3>
-<h4>Summarized</h4>
+<h3>Rust Topology (summarized)</h3>
+<hr>
 <p>What is Topology?</p>
 <p>Topology is the group of layers that make up the map we walk on in-game. These are divided into 3 groups:</p>
 <ul>
