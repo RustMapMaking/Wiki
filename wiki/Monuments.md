@@ -1,4 +1,12 @@
-Warehouse tier 0
+---
+title: Monuments
+---
+
+<h3>Monuments</h3>
+<hr>
+
+<p>
+  Warehouse tier 0
 
 Gas station tier 0
 
