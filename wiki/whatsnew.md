@@ -8,4 +8,4 @@ title: What's New
 
 <p>
 <table><td>07/12/2019</td></table>
-<p>Excavator commits and HDRP ( High Def Render Pipeline )</p>
+<p>Excavator and HDRP ( High Def Render Pipeline ) commits</p>
