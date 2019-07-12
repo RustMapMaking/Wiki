@@ -1,5 +1,9 @@
+---
+title: Spawnpoints
+---
+
 <h2>Spawnpoints</h2>
-<center><img src="images/spawnpoint.png"></center>
+<center><img src="images/spawn.png"></center>
 
 <p>What is a spawnpoint?</p>
 <table>
