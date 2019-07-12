@@ -22,13 +22,13 @@ title: Monuments
     <li>Avoid placing Grass topology where you place a monument, the grass will grow through</li>
  </ul>
  
- <table>
+ <table align="center">
     <tr>
       <th>&nbsp;</th>
       <th>Tier 0</th>
        <th>Tier 1</th>
        <th>Tier 2</th>
-      <th>Suggested Rad Prot.</th>
+      <th>Sugg. Rad Prot.</th>
       <th>Food</th>
       <th>Toolbox</th>
       <th>Wood Crate</th>
