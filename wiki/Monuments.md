@@ -77,7 +77,7 @@ title: Monuments
     <td></td>
     <td></td>
     <td>0%</td>
-        <td>:heavy_check_mark:</td>
+     <td>:heavy_check_mark:</td>
      <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
@@ -125,6 +125,15 @@ title: Monuments
     <td></td>
     <td></td>
     <td>0%</td>
+     <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
   </tr>
    <tr>
     <td>Large Oil Rig</td>
@@ -132,6 +141,15 @@ title: Monuments
     <td></td>
     <td></td>
     <td>0%</td>
+     <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
   </tr>
    <tr>
     <td>Junkyard</td>
