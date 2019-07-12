@@ -7,6 +7,38 @@ title: Monuments
 <center><img src="images/monuments.png"></center>
 
 <p>
+<table>
+  <tr><td colspan="2">What is monument?</td></tr>
+  <tr>
+<td><p>A monument is a pre-built set of buildings/items where you can normally find food, crates, recycler, research table, barrels, radiation, NPCs and of course PVP.</p>
+<h3>FACTS</h3>
+<ul>
+  <li>Monuments come in 3 tiers ( Tier0, Tier1 and Tier2 )</li>
+  <li>Crates normally respawn every 15mins</li>
+  <li>NPCs can all be destroyed</li>
+</ul>  
+ <h3>TIPS</h3>
+ <ul>
+    <li>Avoid placing Grass topology where you place a monument, the grass will grow through</li>
+ </ul>
+ 
+ <table>
+    <tr>
+      <th>&nbsp;</th>
+      <th>Tier 0</th>
+       <th>Tier 1</th>
+       <th>Tier 2</th>
+      <th>Suggested RadProt%</th>
+  </tr>
+  <tr>
+    <td>Warehouse/Outpost</td>
+    <td>:heavy_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td>0%</td>
+  </tr>
+ </table>
+ 
   Warehouse tier 0
 
 Gas station tier 0
