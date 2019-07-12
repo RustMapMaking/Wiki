@@ -19,7 +19,8 @@ title: Boats
  <p><p>
 
   <table>
-  <td> <h3>ROWBOAT</h3><img width="326" src="wiki/images/rowboat.png"></td>
+  <tr>
+    <td> <h3>ROWBOAT</h3><img width="326" src="wiki/images/rowboat.png"></td>
     <td>
       <h3>FACTS</h3>
       <ul>
@@ -35,9 +36,8 @@ title: Boats
         <li>The easiest way to get LGF for your boat is to head to the lighthouse or nearby road and smash an Oil Barrel.  From there head to the ocean and gather further Oil Barrels.</li>
       </ul>
   </td>
-  </table>
-
-  <table>
+  </tr>
+  <tr>
    <td> <h3>R.H.I.B.</h3><img  width="326" src="wiki/images/rhib.png"></td>
     <td>
       <h3>FACTS</h3>
@@ -53,4 +53,5 @@ title: Boats
         <li>Try to drive into the waves straight on instead of at an angle ( you can tip )</li>
       </ul>
   </td>
+  </tr>
   </table>
