@@ -16,9 +16,10 @@ title: Boats
     <li><b>RHIB</b>: larger metal boat that is usually found in Offshore locations and also uses Low Grade Fuel, holds more people, is much faster and is more stable when going over waves.</li>
     <li><b>Cargoship</b>: large floating monument that was Scientists, Chinook, Heavy Scientists and lots of Loot</li>
    </ul>
- <p>
+ <p><p>
  <h3>ROWBOAT</h3>
   <table>
+  <td><img src="wiki/images/rowboat.png"></td>
     <td>
       <h3>FACTS</h3>
       <ul>
