@@ -1,7 +1,7 @@
 ---
 title: Spawnpoints
 ---
-
+<p>
 
 <center><img width="98%" src="wiki/images/spawn_a.png"></center>
 <p>
