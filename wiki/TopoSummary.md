@@ -21,7 +21,7 @@ title: Rust Topologies - Summary
    <th>Forest</th>
    <th>Stones</th>
    <th>Gravel</th>
-   <th><span style="color:green">Allowed</span>/<span style="color:red">Blocked</span><br>Topologies</th>
+   <th><span style="color:green">Allowed</span>/<span style="color:red">Blocked</span>Topologies</th>
 </tr>
 </thead>
 <tbody>
