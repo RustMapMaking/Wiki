@@ -356,7 +356,7 @@ title: Monuments
      <td></td>
       <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
-     <td></td>
+     <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
      <td></td>
@@ -390,7 +390,7 @@ title: Monuments
      <td></td>
       <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
-     <td></td>
+     <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
       <td>:heavy_check_mark:</td>
      <td></td>
