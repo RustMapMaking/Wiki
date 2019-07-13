@@ -173,13 +173,31 @@ title: Monuments
     <td></td>
     <td></td>
     <td>0%</td>
+     <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+     <td></td>
   </tr>
     <tr>
-    <td>Bandit Outpost</td>
+    <td>Bandit Camp</td>
     <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
     <td>0%</td>
+    <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+     <td></td>
   </tr>
     <tr>
     <td>Outpost</td>
