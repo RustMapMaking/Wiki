@@ -60,6 +60,8 @@ title: Boats
       <h3>FACTS</h3>
       <ul>
         <li>Has a ladder on the side that you can climb</li>
+        <li>Is a floating monument</li>
+        <li>Ship will sail around the map 2x before leaving the map</li>
         <li>Loot includes barrels, crates, military crates and a recycler</li>
         <li>Chinook crate will bring in 6-7 Heavy Scientists that drop some nice loot</li>
       </ul>
@@ -68,6 +70,7 @@ title: Boats
         <li>You will need to bring some guns and meds in order to survive on the ship.</li>
         <li>Using boxes and tanks as cover will help reduce damage taken.</li>
         <li>It would be wise to bring 1 or 2 friends with you to fight the scientists.</li>
+        <li>The ship will blow its horn when after entering and before leaving the map.</li>
       </ul>
     </td>
   </td>
