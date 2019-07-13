@@ -140,7 +140,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td></td>
      <td></td>
-     <td>:large_green_circle::large_blue_circle::red_circle:</td>
+     <td>:green_book::large_blue_circle::red_circle:</td>
   </tr>
    <tr>
     <td>Large Oil Rig</td>
@@ -157,7 +157,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td></td>
      <td></td>
-     <td>:large_green_circle::large_blue_circle::red_circle:</td>
+     <td>:green_book::large_blue_circle::red_circle:</td>
   </tr>
    <tr>
     <td>Junkyard</td>
@@ -242,7 +242,7 @@ title: Monuments
       <td></td>
      <td></td>
      <td></td>
-     <td>:large_green_circle:</td>
+     <td>:green_book:</td>
   </tr>
    <tr>
     <td>Airfield</td>
@@ -259,7 +259,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td></td>
      <td></td>
-     <td>:large_green_circle:</td>
+     <td>:green_book:</td>
   </tr>
    <tr>
     <td>Water Treatment</td>
