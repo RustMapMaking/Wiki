@@ -38,6 +38,7 @@ title: Monuments
       <th>Research Table</th>
       <th>Workbench</th>
       <th>Oil Ref.</th>
+      <th>Puzzle</th>
   </tr>
   <tr>
     <td>Warehouse</td>
@@ -51,6 +52,7 @@ title: Monuments
      <td></td>
      <td></td>
     <td>:heavy_check_mark:</td>
+     <td></td>
      <td></td>
      <td></td>
      <td></td>
@@ -70,6 +72,7 @@ title: Monuments
      <td></td>
      <td></td>
      <td></td>
+      <td></td>
   </tr>
    <tr>
     <td>Gas Station</td>
@@ -86,6 +89,7 @@ title: Monuments
      <td></td>
      <td></td>
      <td></td>
+      <td></td>
   </tr>
    <tr>
     <td>Supermarket</td>
@@ -102,6 +106,7 @@ title: Monuments
      <td></td>
      <td></td>
      <td></td>
+      <td></td>
   </tr>
    <tr>
     <td>Mining Outpost</td>
@@ -118,6 +123,7 @@ title: Monuments
      <td></td>
      <td></td>
      <td></td>
+      <td></td>
   </tr>
    <tr>
     <td>Small Oil Rig</td>
@@ -134,6 +140,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td></td>
      <td></td>
+     <td>:heavy_check_mark:</td>
   </tr>
    <tr>
     <td>Large Oil Rig</td>
@@ -150,6 +157,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td></td>
      <td></td>
+     <td>:heavy_check_mark:</td>
   </tr>
    <tr>
     <td>Junkyard</td>
@@ -164,6 +172,7 @@ title: Monuments
      <td></td>
       <td>:heavy_check_mark:</td>
       <td></td>
+     <td></td>
      <td></td>
      <td></td>
   </tr>
@@ -182,6 +191,7 @@ title: Monuments
       <td></td>
      <td></td>
      <td></td>
+    <td>:heavy_check_mark:</td>
   </tr>
     <tr>
     <td>Bandit Camp</td>
@@ -198,6 +208,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td></td>
      <td></td>
+      <td></td>
   </tr>
     <tr>
     <td>Outpost</td>
@@ -214,6 +225,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td>:heavy_check_mark:</td>
      <td>:heavy_check_mark:</td>
+      <td></td>
   </tr>
    <tr>
     <td>Harbor</td>
@@ -230,6 +242,7 @@ title: Monuments
       <td></td>
      <td></td>
      <td></td>
+     <td>:heavy_check_mark::green_book:</td>
   </tr>
    <tr>
     <td>Airfield</td>
