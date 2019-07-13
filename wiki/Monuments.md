@@ -140,7 +140,7 @@ title: Monuments
       <td>:heavy_check_mark:</td>
      <td></td>
      <td></td>
-     <td>:heavy_check_mark:</td>
+     <td>:heavy_check_mark::green_book::blue_book::red_book:</td>
   </tr>
    <tr>
     <td>Large Oil Rig</td>
