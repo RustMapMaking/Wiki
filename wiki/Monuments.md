@@ -335,6 +335,16 @@ title: Monuments
     <td>:heavy_check_mark:</td>
     <td></td>
     <td>15%</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+     <td>:heavy_check_mark:</td>
+     <td>:green_book::large_blue_circle:</td>
   </tr>
    <tr>
     <td>Launch Site</td>
@@ -342,6 +352,16 @@ title: Monuments
     <td></td>
     <td>:heavy_check_mark:</td>
     <td>23%</td>
+    <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+     <td>:green_book::large_blue_circle::red_circle:</td>
   </tr>
    <tr>
     <td>Power Plant</td>
@@ -349,6 +369,16 @@ title: Monuments
     <td></td>
     <td>:heavy_check_mark:</td>
     <td>25%</td>
+       <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+     <td>:green_book::large_blue_circle::red_circle:</td>
   </tr>
    <tr>
     <td>Military Tunnels</td>
@@ -356,6 +386,16 @@ title: Monuments
     <td></td>
     <td>:heavy_check_mark:</td>
     <td>23%</td>
+       <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+     <td>:green_book::large_blue_circle::red_circle:</td>
   </tr>
  </table>
  
