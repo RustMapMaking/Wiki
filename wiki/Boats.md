@@ -25,7 +25,7 @@ title: Boats
       <h3>FACTS</h3>
       <ul>
         <li>Have limited Hit Points when you encounter them on the beach</li>
-        <li>Need to be repaired ( using Woood & Metal Frags ) while inside a Boathouse with walls and ceiling ( Doors are not necessary i believe )</li>
+        <li>Need to be repaired ( using Wood & Metal Frags ) while inside a Boathouse with walls and ceiling ( Doors are not necessary i believe )</li>
         <li>When they are destroyed (0hp) you can no longer push/mount them, their model just sits there.</li>
          <li>Needs to be pushed (using 'E' key) into nearby water before you make it move</li>
         <li>Can be tipped over by player/waves</li>
@@ -43,7 +43,7 @@ title: Boats
       <h3>FACTS</h3>
       <ul>
         <li>Have limited Hit Points when you encounter them in the Ocean</li>
-        <li>Need to be repaired ( using Woood & Metal Frags ) while inside a Boathouse with walls and ceiling ( Doors are not necessary i believe )</li>
+        <li>Need to be repaired ( using Wood & Metal Frags ) while inside a Boathouse with walls and ceiling ( Doors are not necessary i believe )</li>
         <li>When they are destroyed (0hp) you can no longer push/mount them, their model just sits there.</li>
          <li>Can be tipped over by player/waves</li>
         <li>Can be flipped upright be hopping on top and pressing 'E' key to attempt flipping of said boat (takes a bit of practice)</li>
