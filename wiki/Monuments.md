@@ -267,6 +267,16 @@ title: Monuments
     <td>:heavy_check_mark:</td>
     <td></td>
     <td>15%</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+     <td>:heavy_check_mark:</td>
+     <td>:green_book:</td>
   </tr>
    <tr>
     <td>Sewer Branch</td>
