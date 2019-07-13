@@ -301,6 +301,16 @@ title: Monuments
     <td>:heavy_check_mark:</td>
     <td></td>
     <td>15%</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+     <td>:green_book:</td>
   </tr>
    <tr>
     <td>Dome</td>
@@ -308,13 +318,16 @@ title: Monuments
     <td>:heavy_check_mark:</td>
     <td></td>
     <td>15%</td>
-  </tr>
-   <tr>
-    <td>Water Treatment</td>
-   <td></td>
-    <td>:heavy_check_mark:</td>
-    <td></td>
-    <td>15%</td>
+     <td>:heavy_check_mark:</td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td></td>
+     <td></td>
+      <td>:heavy_check_mark:</td>
+      <td>:heavy_check_mark:</td>
+     <td></td>
+     <td></td>
+     <td></td>
   </tr>
    <tr>
     <td>Trainyard</td>
