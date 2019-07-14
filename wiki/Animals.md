@@ -18,6 +18,7 @@ title: Animals
      <th>Raw Meat</th>
      <th>Leather</th>
      <th>Animal Fat</th>
+      <th>Wolf Skull</th>
   </tr>
   <tr>
     <td>BOAR</td>
