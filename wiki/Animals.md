@@ -27,6 +27,7 @@ title: Animals
      <td>x</td>
      <td>x</td>
      <td>x</td>
+    <td></td>
   </tr>
     <tr>
     <td>BEAR</td>
@@ -35,6 +36,7 @@ title: Animals
      <td>x</td>
      <td>x</td>
      <td>x</td>
+      <td></td>
   </tr>
     <tr>
     <td>WOLF</td>
@@ -43,6 +45,7 @@ title: Animals
      <td>x</td>
      <td>x</td>
      <td>x</td>
+      <td>x</td>
   </tr>
     <tr>
     <td>DEER</td>
@@ -51,12 +54,14 @@ title: Animals
      <td>x</td>
      <td>x</td>
      <td>x</td>
+      <td></td>
   </tr>
    <tr>
     <td>CHICKEN</td>
      <td>x</td>
      <td>x</td>
      <td>x</td>
+     <td></td>
      <td></td>
      <td></td>
   </tr>
@@ -67,5 +72,12 @@ title: Animals
      <td>x</td>
      <td>x</td>
      <td>x</td>
+     <td></td>
   </tr>
  </table>
+
+<h3>TIPS</h3>
+<ul>
+  <li>Using Stone/Metal Hatchet or Bone knife will give you more harvest, so avoid rocks if you can.</li>
+  <li>Dragging them into water will slow their movement and allow to kill them easier.</li>
+</ul>
