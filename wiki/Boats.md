@@ -73,6 +73,6 @@ title: Boats
         <li>The ship will blow its horn when after entering and before leaving the map.</li>
       </ul>
     </td>
-  </td>
+
   </tr>
   </table>
