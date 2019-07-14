@@ -12,7 +12,7 @@ title: Animals
 
 <table>
    <tr>
-     <th>&nbps;</th>
+     <th>&nbsp;</th>
      <th>Cloth</th>
      <th>Bones</th>
      <th>Raw Meat</th>
