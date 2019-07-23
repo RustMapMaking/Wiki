@@ -38,3 +38,40 @@ This can also be used to bypass entity spawning restrictions on the Ground and B
 
 Biome temperatures are handled server side, so it is possible to have a desert visually but with the temperature of an Arctic Biome.
 
+This is the snippet of code responsible for generating the Checksum.
+
+``` csharp
+public string Hash()
+    {
+        var checksum = new Checksum();
+
+        var heights = GetMap("terrain"); // World Heightmap
+        if (heights != null)
+        {
+            for (int i = 0; i < heights.data.Length; i++)
+            {
+                checksum.Add(heights.data[i]);
+            }
+        }
+
+        var prefabs = world.prefabs;
+        if (prefabs != null)
+        {
+            for (int i = 0; i < prefabs.Count; i++)
+            {
+                var prefab = prefabs[i];
+
+                checksum.Add(prefab.id);
+
+                // Include the 3 most significant bytes as an approximation
+                checksum.Add(prefab.position.x, 3);
+                checksum.Add(prefab.position.y, 3);
+                checksum.Add(prefab.position.z, 3);
+                checksum.Add(prefab.scale.x, 3);
+                checksum.Add(prefab.scale.y, 3);
+                checksum.Add(prefab.scale.z, 3);
+            }
+        }
+        return checksum.MD5();
+    }
+```
