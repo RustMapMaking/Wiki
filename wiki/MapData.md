@@ -28,6 +28,8 @@ Map files are stored in the format below, and compressed using a LZ4Stream.
 
 They first contain the World Serialization number, currently 9 and then the WorldData.
 
+The WorldData is stored in the following format:
+
 ``` csharp
 public class WorldData
 	{
@@ -45,8 +47,8 @@ It is stored in the following format:
 ``` csharp
 public class MapData
 	{
-		[ProtoMember(1)] public string name;
-		[ProtoMember(2)] public byte[] data;
+		[ProtoMember(1)] public string name; // ByteMap name (terrain, water, ground, topology etc)
+		[ProtoMember(2)] public byte[] data; // The bytemap data.
 	}
 ```
 
@@ -72,7 +74,7 @@ It is stored in the following format:
 ``` csharp
 public class PathData
 	{
-		[ProtoMember(1)] public string name; 
+		[ProtoMember(1)] public string name; // River or Road
 		[ProtoMember(2)] public bool spline;
 		[ProtoMember(3)] public bool start;
 		[ProtoMember(4)] public bool end;
