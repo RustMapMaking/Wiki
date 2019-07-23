@@ -2,7 +2,6 @@
 title: Map Data
 ---
 # Map Data
-* [Intro](#intro)
 * [Data Format](#data-format)
 * [Checksum](#checksum)
 
@@ -21,9 +20,7 @@ When first joining a server that is running a ProcGen map, Rust will generate th
 The map is then saved into a .map file, and can be found in the Rust install directory inside the maps folder. The map filename 
 will be named MapType.Size.Seed.map
 
-
-
-
+Custom maps are essentially a pre-generated map, which is downloaded from an URL rather than being generated based on certain values.
 
 ## Data Format
 
