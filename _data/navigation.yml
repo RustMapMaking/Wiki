@@ -1,23 +1,23 @@
 - title: Animals
-  url: /animals
+  url: /Animals
 - title: Boats
-  url: /boats
+  url: /Boats
 - title: Home
   url: /main_page
 - title: MapData
-  url: /mapdata
+  url: /Mapdata
 - title: Monuments
-  url: /monuments
+  url: /Monuments
 - title: NPCs
-  url: /npcs
+  url: /Npcs
 - title: Spawnpoints
-  url: /spawnpoints
+  url: /Spawnpoint
 - title: Topology
-  url: /topology
+  url: /Topology
 - title: Topology Summary
-  url: /toposummary
+  url: /TopoSummary
 - title: Vehicles
-  url: /vehicles
+  url: /Vehicles
 - title: What's New
   url: /whatsnew
 - title: Youtube
