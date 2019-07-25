@@ -1,18 +1,25 @@
-- title: About
-  url: /about.html
-- title: Team
-  url: /team.html
-- title: Contact
-  url: /contact.html
-- title: Store
-  url: /store.html
-- title: Support
-  url: /support.html
-  sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+- title: Animals
+  url: /animals.md
+- title: Boats
+  url: /boats.md
+- title: Home
+  url: /main_page.md
+- title: MapData
+  url: /mapdata.md
+- title: Monuments
+  url: /monuments.md
+- title: NPCs
+  url: /npcs.md
+- title: Spawnpoints
+  url: /spawnpoints.md
+- title: Topology
+  url: /topology.md
+- title: Topology Summary
+  url: /toposummary.md
+- title: Vehicles
+  url: /vehicles.md
+- title: What's New
+  url: /whatsnew.md
+- title: Youtube
+  url: /YT.md
+  
