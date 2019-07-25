@@ -3,7 +3,7 @@ title: TOPOLOGY RULES FOR RUST
 ---
 
 <h1>TOPOLOGY RULES FOR RUST</h1>
-* This list is outdated from an early data scrape ( missing Rowbat, RHIB, Horses, Mincopter, Hot Air Balloon )*
+** This list is outdated from an early data scrape ( missing Rowbat, RHIB, Horses, Mincopter, Hot Air Balloon )**
 
 <div class="w3-bar w3-green">
   <div class="w3-bar-item">LOOT</div>
