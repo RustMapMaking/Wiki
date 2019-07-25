@@ -19,7 +19,7 @@ title: NPCs
 	<li><b>Attack Helicopter</b>: Helicopter that travels the map monument by monument and attacks when threatened.</li>
 	<li><b>Chinook Helicopter</b>: Large 2 blade helicopter that carries Heavy Scientists / Crate.</li>
 	<li><b>Bradley Tank</b>: The tank that protects Launch Site monument.</li>
-	<li><b>Animals</b>: click <a href="wiki/Animals/">Here</a> to view the list</li>
+	<li><b>Animals</b>: click <a href="https://rustmapmaking.github.io/Wiki/Animals">Here</a> to view the list</li>
    </ul>
  <p><p>
 
