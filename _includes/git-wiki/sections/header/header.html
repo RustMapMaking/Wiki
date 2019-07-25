@@ -32,6 +32,10 @@
     {% include git-wiki/components/lists/page-list.html %}
     {% endif %}
 
+	{% if site.show_nav %}
+    {% include git-wiki/components/lists/navigation.html %}
+    {% endif %}
+	
     {% if site.blog_feature and site.show_wiki_posts %}
     {% include git-wiki/components/lists/post-list.html %}
     {% endif %}
