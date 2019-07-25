@@ -7,11 +7,23 @@ title: NPCs
 <center><img src="wiki/images/npcs.png"></center>
 
 <p>
-<%
-foreach (glob("wiki/*.md") as $path) {
-  $file = basename($path);
-  echo "<li><a href="$path">$file</a></li>\n";
-}
-%>
+- title: About
+  url: /about.html
+- title: Team
+  url: /team.html
+- title: Contact
+  url: /contact.html
+- title: Store
+  url: /store.html
+- title: Support
+  url: /support.html
+  sublinks:
+    - title: FAQ
+      url: /faq.html
+    - title: Documentation
+      url: /documentation.html
+    - title: separator
+    - title: Customer Support
+      url: /customer-support.html
 
 <h3>NPCs in Rust</h3>
