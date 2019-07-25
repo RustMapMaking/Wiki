@@ -8,6 +8,8 @@ title: NPCs
 
 <p>
 
+<h3>NPCs in Rust</h3>
+
 <p>There are 3 types of NPCs in the game<p>
   <ul>
     <li><b>Scientists(blue)</b>: These guys are dressed in blue hazmat suits that can be found at monuments and along the roadside.</li>
@@ -21,4 +23,3 @@ title: NPCs
    </ul>
  <p><p>
 
-<h3>NPCs in Rust</h3>
