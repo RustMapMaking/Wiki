@@ -71,7 +71,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: /pictures/RMM-Github-Preview.png
+      image: /pictures/RMM.png
  -
     scope:
       path: "" # an empty string here means all files in the project
