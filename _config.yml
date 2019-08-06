@@ -1,8 +1,7 @@
 # (string) Title of your wiki
 title: Rust Map Making Wiki
 # (string) Description of your wiki
-description: Rust Map Making Wiki 
-Documentation for Custom Map Making in Rust.
+description: Rust Map Making Wiki \n Documentation for Custom Map Making in Rust.
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
