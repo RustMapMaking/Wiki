@@ -1,5 +1,6 @@
 ---
 title: Rust Topologies - Summary 
+description: An at-a-glance summary table of topology spawn requirements.
 ---
 
 <h3>Rust Topology (summarized)</h3>
