@@ -1,9 +1,6 @@
 ---
 title: Map Data
 ---
-# Map Data
-* [Data Format](#data-format)
-* [Checksum](#checksum)
 
 ## Intro
 
