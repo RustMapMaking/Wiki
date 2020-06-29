@@ -17,14 +17,14 @@ title: Vehicles
 <p>Larger map size 4500 instead of 4250 to accomodate larger number of vehicles</p>
 <p>With introduction of heli vendors you will no longer see small helis along the roads, this will be replaced with modular cars that need to be fixed.</p>
 <p>5 different engine parts will be available in 3 different tiers</p>
-
+<p>Tier 1 parts will be for sale upstairs from the heli vendor at Bandit Camp</p>
 <p>
 <center><img src="wiki/images/modular.png">
 
   <table>
  
   <tr>
-    <td> <h3>TIER 1 Workbench parts</h3></td>
+    <td></td>
 	<td>Pistons</td>
 	<td>Valves</td>
 	<td>Carburetor</td>
@@ -32,11 +32,27 @@ title: Vehicles
 	<td>Crank Shaft</td>
   </tr>
   <tr>
-	<td>&nbsp;</td>
-	<td><center><img width="50" src="wiki/images/modular_02.gif"></center></td>
-   <td><center><img width="50" src="wiki/images/modular_03.gif"></center></td>
-   <td><center><img width="50" src="wiki/images/modular_04.gif"></center></td>
-   <td><center><img width="50" src="wiki/images/modular_05.gif"></center></td>
-   <td><center><img width="50" src="wiki/images/modular_06.gif"></center></td>
+	<td> <h2>TIER 1 Workbench parts</h2></td>
+	<td><center><img width="70" src="wiki/images/modular_02.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_03.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_04.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_05.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_06.gif"></center></td>
+  </tr>
+   <tr>
+	<td> <h2>TIER 2 Workbench parts</h2></td>
+	<td><center><img width="70" src="wiki/images/modular_08.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_09.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_10.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_11.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_12.gif"></center></td>
+  </tr>
+   <tr>
+	<td> <h2>TIER 3 Workbench parts</h2></td>
+	<td><center><img width="70" src="wiki/images/modular_13.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_14.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_15.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_16.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/modular_17.gif"></center></td>
   </tr>
   </table>
