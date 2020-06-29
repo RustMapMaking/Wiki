@@ -74,10 +74,21 @@ title: Animals
      <td>x</td>
      <td></td>
   </tr>
+   <tr>
+    <td>FISH</td>
+     <td></td>
+     <td>x</td>
+     <td>x</td>
+     <td></td>
+     <td>x</td>
+     <td></td>
+  </tr>
  </table>
 
 <h3>TIPS</h3>
 <ul>
   <li>Using Stone/Metal Hatchet or Bone knife will give you more harvest, so avoid rocks if you can.</li>
-  <li>Dragging them into water will slow their movement and allow to kill them easier.</li>
+  <li>Dragging them into water will slow their movement and allow you to kill them easier.</li>
+  <li>Getting Fish from fish traps is a great way to get Low Grade Fuel early on, not to mention the steady stream of food.  Once you can feed the traps with cooked fished you will get the greatest return, as it stands in the game now.</li>
+  
 </ul>
