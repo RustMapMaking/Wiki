@@ -12,12 +12,14 @@ title: Vehicles
 <p>
 
 <p>Modular Cars are here</p>
-<p>Vehicle Lift</p>
-<p>Car Locks</p>
-<p>Larger map size 4500 instead of 4250 to accomodate larger number of vehicles</p>
-<p>With introduction of heli vendors you will no longer see small helis along the roads, this will be replaced with modular cars that need to be fixed.</p>
-<p>5 different engine parts will be available in 3 different tiers</p>
-<p>Tier 1 parts will be for sale upstairs from the heli vendor at Bandit Camp</p>
+<ul>
+	<li>Vehicle Lift</li>
+	<li>Car Locks</li>
+	<li>Larger map size 4500 instead of 4250 to accomodate larger number of vehicles</li>
+	<li>With introduction of heli vendors you will no longer see small helis along the roads, this will be replaced with modular cars that need to be fixed.</li>
+	<li>5 different engine parts will be available in 3 different tiers</li>
+	<li>Tier 1 parts will be for sale upstairs from the heli vendor at Bandit Camp</li>
+</ul>
 <p>
 <center><img src="wiki/images/modular.png">
 
