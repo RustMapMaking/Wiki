@@ -32,7 +32,7 @@ title: Vehicles
 	<td>Crank Shaft</td>
   </tr>
   <tr>
-	<td> <h2>TIER 1 Workbench parts</h2></td>
+	<td> <h4>TIER 1 Workbench parts</h4></td>
 	<td><center><img width="70" src="wiki/images/modular_02.gif"></center></td>
    <td><center><img width="70" src="wiki/images/modular_03.gif"></center></td>
    <td><center><img width="70" src="wiki/images/modular_04.gif"></center></td>
@@ -40,7 +40,7 @@ title: Vehicles
    <td><center><img width="70" src="wiki/images/modular_06.gif"></center></td>
   </tr>
    <tr>
-	<td> <h2>TIER 2 Workbench parts</h2></td>
+	<td> <h4>TIER 2 Workbench parts</h4></td>
 	<td><center><img width="70" src="wiki/images/modular_08.gif"></center></td>
    <td><center><img width="70" src="wiki/images/modular_09.gif"></center></td>
    <td><center><img width="70" src="wiki/images/modular_10.gif"></center></td>
@@ -48,7 +48,7 @@ title: Vehicles
    <td><center><img width="70" src="wiki/images/modular_12.gif"></center></td>
   </tr>
    <tr>
-	<td> <h2>TIER 3 Workbench parts</h2></td>
+	<td> <h4>IER 3 Workbench parts</h4></td>
 	<td><center><img width="70" src="wiki/images/modular_13.gif"></center></td>
    <td><center><img width="70" src="wiki/images/modular_14.gif"></center></td>
    <td><center><img width="70" src="wiki/images/modular_15.gif"></center></td>
