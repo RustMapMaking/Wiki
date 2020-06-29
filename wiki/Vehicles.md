@@ -19,12 +19,10 @@ title: Vehicles
 <p>5 different engine parts will be available in 3 different tiers</p>
 
 <p>
-
+<center><img src="wiki/images/modular.png">
 
   <table>
-  <tr>
-	<td colspan="6"><center><img src="wiki/images/modular.png"></center></td>
-  </tr>
+ 
   <tr>
     <td> <h3>TIER 1 Workbench parts</h3></td>
 	<td>Pistons</td>
@@ -35,10 +33,10 @@ title: Vehicles
   </tr>
   <tr>
 	<td>&nbsp;</td>
-	<td><center><img src="wiki/images/modular_02.gif"></center></td>
-   <td><center><img src="wiki/images/modular_03.gif"></center></td>
-   <td><center><img src="wiki/images/modular_04.gif"></center></td>
-   <td><center><img src="wiki/images/modular_05.gif"></center></td>
-   <td><center><img src="wiki/images/modular_06.gif"></center></td>
+	<td><center><img width="50" src="wiki/images/modular_02.gif"></center></td>
+   <td><center><img width="50" src="wiki/images/modular_03.gif"></center></td>
+   <td><center><img width="50" src="wiki/images/modular_04.gif"></center></td>
+   <td><center><img width="50" src="wiki/images/modular_05.gif"></center></td>
+   <td><center><img width="50" src="wiki/images/modular_06.gif"></center></td>
   </tr>
   </table>
