@@ -9,9 +9,10 @@ title: Boats
 <p>
 
 <h3>Boats in Rust</h3>
-<p>Now that we have boats in Rust, here is how they work</p>
+<p>Now that we have boats in Rust, here is how they work:</p>
 <p>There are 3 main types of boats in Rust<p>
   <ul>
+	<li>boats can only be repaired once placed inside a building (boat hangar) behind doors</li>
     <li><b>Rowboat</b>: small wooden boat that is usually found on beaches and uses Low Grad Fuel to run</li>
     <li><b>RHIB</b>: larger metal boat that is usually found in Offshore locations and also uses Low Grade Fuel, holds more people, is much faster and is more stable when going over waves.</li>
     <li><b>Cargoship</b>: large floating monument that has Scientists, Chinook, Heavy Scientists and lots of Loot</li>
