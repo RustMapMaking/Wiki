@@ -19,9 +19,12 @@ title: Vehicles
 <p>5 different engine parts will be available in 3 different tiers</p>
 
 <p>
-<center><img src="wiki/images/modular.png"></center>
+
 
   <table>
+  <tr>
+	<td colspan=6><center><img src="wiki/images/modular.png"></center></td>
+  </tr>
   <tr>
     <td> <h3>TIER 1 Workbench parts</h3></td>
 	<td>Pistons</td>
