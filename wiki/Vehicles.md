@@ -23,7 +23,7 @@ title: Vehicles
 
   <table>
   <tr>
-	<td colspan=6><center><img src="wiki/images/modular.png"></center></td>
+	<td colspan="6"><center><img src="wiki/images/modular.png"></center></td>
   </tr>
   <tr>
     <td> <h3>TIER 1 Workbench parts</h3></td>
