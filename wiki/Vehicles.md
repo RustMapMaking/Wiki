@@ -31,10 +31,10 @@ title: Vehicles
 	<td>Crank Shaft</td>
   </tr>
   <tr>
-	<td><center><img src="wiki/images/modular_02.png"></center></td>
-   <td><center><img src="wiki/images/modular_03.png"></center></td>
-   <td><center><img src="wiki/images/modular_04.png"></center></td>
-   <td><center><img src="wiki/images/modular_05.png"></center></td>
-   <td><center><img src="wiki/images/modular_06.png"></center></td>
+	<td><center><img src="wiki/images/modular_02.gif"></center></td>
+   <td><center><img src="wiki/images/modular_03.gif"></center></td>
+   <td><center><img src="wiki/images/modular_04.gif"></center></td>
+   <td><center><img src="wiki/images/modular_05.gif"></center></td>
+   <td><center><img src="wiki/images/modular_06.gif"></center></td>
   </tr>
   </table>
