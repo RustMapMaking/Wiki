@@ -10,7 +10,6 @@ title: What's New
 <table><td>07/01/2019</td></table>
 <p>Modular Cars ( Larger map size 4500 instead of 4250 ). Car locks</p>
 <p>Heli vendor at Bandit Camp ( Bandit will now be a Safe Zone )</p>
-<p>Car Locks</p>
 
 
 <p>
