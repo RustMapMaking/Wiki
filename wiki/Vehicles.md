@@ -7,10 +7,25 @@ title: Vehicles
 <center><img src="wiki/images/vehicles.png"></center>
 
 <p>
+<h3>Helicopters</h3>
+<p>We have mini-copters that can be purchased from Bandit Camp for 1500scrap or large scrap helis for 3000scrap</p>
 
-<h3>Vehicles in Rust</h3>
+<table>
+	<tr>
+		<td>Mini-copter</td>
+		<td>Large Scrap Heli</td>
+	</tr>
+	<tr>
+		<td><img src="wiki/images/minicopter.png"></td>
+		<td><img src="wiki/images/scrapheli.png"></td>
+	</tr>
+	<tr>
+		<td>needs low grade fuel to run and can carry another player</td>
+		<td>is damaged but can be flown and can carry many players</td>
+	</tr>
+</table>
 <p>
-
+<h3>Modular Cars</h3>
 <p>Modular Cars are here</p>
 <ul>
 	<li>Vehicle Lift</li>
