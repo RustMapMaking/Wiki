@@ -58,3 +58,23 @@ title: Vehicles
    <td><center><img width="70" src="wiki/images/modular_17.gif"></center></td>
   </tr>
   </table>
+  <p>
+  <h2>Vehicle Chassis</h2>
+   <table>
+ 
+  <tr>
+    <td></td>
+	<td>Small</td>
+	<td>Medium</td>
+	<td>Large</td>
+	
+  </tr>
+  <tr>
+	<td> &nbsp;</td>
+	<td><center><img width="70" src="wiki/images/chassis_04.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/chassis_05.gif"></center></td>
+   <td><center><img width="70" src="wiki/images/chassis_06.gif"></center></td>
+  
+ 
+  </tr>
+  </table>
