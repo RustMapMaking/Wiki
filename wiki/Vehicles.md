@@ -106,4 +106,5 @@ title: Vehicles
 		</tr>
 		<tr>
 			<td><center><img width="100" src="wiki/images/cockpit3.png"></center></td>
+		</tr>
 	</table>
