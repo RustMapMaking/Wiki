@@ -12,8 +12,8 @@ title: Vehicles
 
 <table>
 	<tr>
-		<td>Mini-copter</td>
-		<td>Large Scrap Heli</td>
+		<td><center>Mini-copter</td>
+		<td><center>Large Scrap Heli</td>
 	</tr>
 	<tr>
 		<td><img src="wiki/images/minicopter.png"></td>
@@ -21,7 +21,7 @@ title: Vehicles
 	</tr>
 	<tr>
 		<td>needs low grade fuel to run and can carry another player</td>
-		<td>is damaged but can be flown and can carry many players</td>
+		<td>damaged by default but can be repaired/flown and can carry many players</td>
 	</tr>
 </table>
 <p>
