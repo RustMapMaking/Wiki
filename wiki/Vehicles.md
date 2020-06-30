@@ -61,7 +61,6 @@ title: Vehicles
   <h2>Vehicle Chassis</h2>
 	<table>
 		<tr>
-			<td></td>
 			<td>Small</td>
 			<td>Medium</td>
 			<td>Large</td>
@@ -77,25 +76,7 @@ title: Vehicles
 			<td> 4 Sockets</td>
 		</tr>
 	</table>
-<p>
-	<h2>Vehicle Chassis</h2>
-	<table>
-		<tr>
-			<td>Small</td>
-			<td>Medium</td>
-			<td>Large</td>
-		</tr>
-		<tr>
-			<td><center><img width="100" src="wiki/images/chassis_04.gif"></center></td>
-			<td><center><img width="100" src="wiki/images/chassis_05.gif"></center></td>
-			<td><center><img width="100" src="wiki/images/chassis_06.gif"></center></td>
-		</tr>
-		<tr>
-			<td> 2 Sockets</td>
-			<td> 3 Sockets</td>
-			<td> 4 Sockets</td>
-		</tr>
-	</table>
+
 <p>
 	<h2>Vehicle Modules</h2>
 	<table>
