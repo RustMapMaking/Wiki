@@ -60,24 +60,72 @@ title: Vehicles
   </table>
   <p>
   <h2>Vehicle Chassis</h2>
-   <table>
- 
-  <tr>
-    <td></td>
-	<td>Small</td>
-	<td>Medium</td>
-	<td>Large</td>
-	
-  </tr>
-  <tr>
-	<td> &nbsp;</td>
-	<td><center><img width="100" src="wiki/images/chassis_04.gif"></center></td>
-   <td><center><img width="100" src="wiki/images/chassis_05.gif"></center></td>
-   <td><center><img width="100" src="wiki/images/chassis_06.gif"></center></td>
-  </tr>
-  <tr>
-		<td> 2 Sockets</td>
-		<td> 3 Sockets</td>
-		<td> 4 Sockets</td>
-  </tr>
-  </table>
+	<table>
+		<tr>
+			<td></td>
+			<td>Small</td>
+			<td>Medium</td>
+			<td>Large</td>
+		</tr>
+		<tr>
+			<td><center><img width="100" src="wiki/images/chassis_04.gif"></center></td>
+			<td><center><img width="100" src="wiki/images/chassis_05.gif"></center></td>
+			<td><center><img width="100" src="wiki/images/chassis_06.gif"></center></td>
+		</tr>
+		<tr>
+			<td> 2 Sockets</td>
+			<td> 3 Sockets</td>
+			<td> 4 Sockets</td>
+		</tr>
+	</table>
+<p>
+	<h2>Vehicle Chassis</h2>
+	<table>
+		<tr>
+			<td></td>
+			<td>Small</td>
+			<td>Medium</td>
+			<td>Large</td>
+		</tr>
+		<tr>
+			<td><center><img width="100" src="wiki/images/chassis_04.gif"></center></td>
+			<td><center><img width="100" src="wiki/images/chassis_05.gif"></center></td>
+			<td><center><img width="100" src="wiki/images/chassis_06.gif"></center></td>
+		</tr>
+		<tr>
+			<td> 2 Sockets</td>
+			<td> 3 Sockets</td>
+			<td> 4 Sockets</td>
+		</tr>
+	</table>
+<p>
+	<h2>Vehicle Modules</h2>
+	<table>
+		<tr>
+			<td></td>
+			<td>Cockpit</td>
+			<td>Engine</td>
+			<td>Flatbed</td>
+			<td>Fuel Tank</td>
+			<td>Passenger</td>
+			<td>Storage</td>
+		</tr>
+		<tr>
+			<td><center><img width="100" src="wiki/images/cockpit1.png"></center></td>
+			<td><center><img width="100" src="wiki/images/engine.png"></center></td>
+			<td><center><img width="100" src="wiki/images/flatbed1.png"></center></td>
+			<td><center><img width="100" src="wiki/images/fueltank.png"></center></td>
+			<td><center><img width="100" src="wiki/images/passenger1.png"></center></td>
+			<td><center><img width="100" src="wiki/images/storage.png"></center></td>
+		</tr>
+		<tr>
+			<td><center><img width="100" src="wiki/images/cockpit2.png"></center></td>
+			<td><center>&nbsp;</center></td>
+			<td><center><img width="100" src="wiki/images/flatbed2.png"></center></td>
+			<td><center>&nbsp;</center></td>
+			<td><center><img width="100" src="wiki/images/passenger2.png"></center></td>
+			<td><center>&nbsp;</center></td>
+		</tr>
+		<tr>
+			<td><center><img width="100" src="wiki/images/cockpit3.png"></center></td>
+	</table>
