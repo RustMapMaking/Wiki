@@ -35,27 +35,27 @@ title: Vehicles
   </tr>
   <tr>
 	<td> <h4>TIER 1 Workbench parts</h4></td>
-	<td><center><img width="70" src="wiki/images/modular_02.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_03.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_04.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_05.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_06.gif"></center></td>
+	<td><center><img width="85" src="wiki/images/modular_02.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_03.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_04.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_05.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_06.gif"></center></td>
   </tr>
    <tr>
 	<td> <h4>TIER 2 Workbench parts</h4></td>
-	<td><center><img width="70" src="wiki/images/modular_08.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_09.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_10.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_11.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_12.gif"></center></td>
+	<td><center><img width="85" src="wiki/images/modular_08.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_09.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_10.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_11.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_12.gif"></center></td>
   </tr>
    <tr>
-	<td> <h4>IER 3 Workbench parts</h4></td>
-	<td><center><img width="70" src="wiki/images/modular_13.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_14.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_15.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_16.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/modular_17.gif"></center></td>
+	<td> <h4>TIER 3 Workbench parts</h4></td>
+	<td><center><img width="85" src="wiki/images/modular_13.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_14.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_15.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_16.gif"></center></td>
+   <td><center><img width="85" src="wiki/images/modular_17.gif"></center></td>
   </tr>
   </table>
   <p>
@@ -71,10 +71,13 @@ title: Vehicles
   </tr>
   <tr>
 	<td> &nbsp;</td>
-	<td><center><img width="70" src="wiki/images/chassis_04.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/chassis_05.gif"></center></td>
-   <td><center><img width="70" src="wiki/images/chassis_06.gif"></center></td>
-  
- 
+	<td><center><img width="100" src="wiki/images/chassis_04.gif"></center></td>
+   <td><center><img width="100" src="wiki/images/chassis_05.gif"></center></td>
+   <td><center><img width="100" src="wiki/images/chassis_06.gif"></center></td>
+  </tr>
+  <tr>
+		<td> 2 Sockets</td>
+		<td> 3 Sockets</td>
+		<td> 4 Sockets</td>
   </tr>
   </table>
